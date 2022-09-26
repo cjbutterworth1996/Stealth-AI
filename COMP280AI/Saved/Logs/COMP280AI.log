@@ -1208,3 +1208,50 @@ Script Stack (0 frames):
 [2022.09.26-11.11.22:985][ 11]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyBF1A80D14572E61DA4FE20B66CB683E8.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
 [2022.09.26-11.11.22:995][ 11]AssetCheck: New page: Asset Save: BT_Enemy
 [2022.09.26-11.11.22:995][ 11]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-11.13.09:277][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.09.26-11.13.09:283][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A1/4JOM080AL3KOH479DZYPOG_Auto8
+[2022.09.26-11.13.09:283][833]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/4JOM080AL3KOH479DZYPOG_Auto8537B2FF34471830FD8AB7498716DAFA9.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A1/4JOM080AL3KOH479DZYPOG_Auto8.uasset'
+[2022.09.26-11.13.09:284][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.100
+[2022.09.26-11.13.09:284][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2022.09.26-11.18.48:660][966]BlueprintLog: New page: Compile BTT_FindRandomPatrol
+[2022.09.26-11.18.48:717][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.26-11.19.04:048][785]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-11.19.04:048][785]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrol74DDFC424B6ACE9081BF0DB857E1B725.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-11.19.04:059][785]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-11.19.04:059][785]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-11.19.07:144][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-11.19.07:147][134]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-11.19.07:147][134]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy44CDDB944C9F25D842288FAA97044103.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-11.19.07:158][134]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-11.19.07:158][134]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-11.20.50:846][922]BlueprintLog: New page: Compile BTT_FindRandomPatrol
+[2022.09.26-11.20.50:906][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.09.26-11.21.05:530][335]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-11.21.05:530][335]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrolA0E5466F49D0222F1C3BA1B0A86609AC.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-11.21.05:541][335]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-11.21.05:541][335]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-11.23.09:986][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.09.26-11.23.09:987][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.048
+[2022.09.26-11.23.09:987][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.09.26-11.23.09:988][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.09.26-11.23.09:990][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto9
+[2022.09.26-11.23.09:990][938]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto9C49993D14E7DB2017AD6DD9857FAD6D8.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto9.uasset'
+[2022.09.26-11.23.09:991][938]LogFileHelpers: Auto-saving content packages took 0.003
+[2022.09.26-11.26.30:879][986]LogDerivedDataCache: C:/Users/CB264195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.26-11.26.47:833][643]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-11.26.47:834][643]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrol3BEC7AA542ECD241E05198BB8DC56EED.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-11.26.47:846][643]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-11.26.47:846][643]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-11.29.33:497][163]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-11.29.33:497][163]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrol3BF9462B42CD0B816FD5D8A8D34C0C64.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-11.29.33:509][163]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-11.29.33:509][163]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-11.30.50:529][842]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-11.30.50:530][842]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrol9FF7C97545B51BC41C8D76B21FAF79C3.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-11.30.50:541][842]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-11.30.50:541][842]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-11.30.52:674][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-11.30.52:676][ 75]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-11.30.52:677][ 75]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy06E1BC3E439EFD540D221EA094AFBCAF.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-11.30.52:687][ 75]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-11.30.52:687][ 75]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
