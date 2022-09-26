@@ -2493,3 +2493,17 @@ Script Stack (0 frames):
 [2022.09.26-12.44.59:206][ 82]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_ChasePlayerE086B56446CC5686704068AEABD4ADF7.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_ChasePlayer.uasset'
 [2022.09.26-12.44.59:233][ 82]AssetCheck: New page: Asset Save: BTT_ChasePlayer
 [2022.09.26-12.44.59:233][ 82]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2022.09.26-12.48.06:064][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Controller.Enemy_Controller
+[2022.09.26-12.48.06:064][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-12.48.16:698][588]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.26-12.48.46:340][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.09.26-12.48.46:342][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2022.09.26-12.48.46:342][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/Enemy_Controller] ([2] browsable assets)...
+[2022.09.26-12.48.46:342][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/Enemy_Controller]
+[2022.09.26-12.48.46:398][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/Enemy_Controller_Auto5
+[2022.09.26-12.48.46:398][ 28]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Enemy_Controller_Auto5A1CF4F324361A419A1491A860B7FAEB0.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/Enemy_Controller_Auto5.uasset'
+[2022.09.26-12.48.46:400][ 28]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.09.26-12.49.38:613][193]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Controller
+[2022.09.26-12.49.38:613][193]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Enemy_ControllerD772194044F99323523035AD72A114D1.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Controller.uasset'
+[2022.09.26-12.49.38:627][193]AssetCheck: New page: Asset Save: Enemy_Controller
+[2022.09.26-12.49.38:627][193]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Controller.Enemy_Controller
