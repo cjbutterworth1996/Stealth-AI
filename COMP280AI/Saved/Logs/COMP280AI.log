@@ -1052,3 +1052,90 @@ Script Stack (0 frames):
 [2022.09.26-09.54.22:381][865]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BB_Enemy56012A0C42284339E51F18ACCE153061.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset'
 [2022.09.26-09.54.22:392][865]AssetCheck: New page: Asset Save: BB_Enemy
 [2022.09.26-09.54.22:392][865]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
+[2022.09.26-09.59.01:032][902]LogSlate: Window 'BB_Enemy' being destroyed
+[2022.09.26-09.59.01:050][902]LogSlate: Window 'BB_Enemy' being destroyed
+[2022.09.26-09.59.08:482][263]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2022.09.26-09.59.08:489][263]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2022.09.26-09.59.08:511][264]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2022.09.26-09.59.15:713][620]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> BT_Enemy
+[2022.09.26-09.59.15:713][620]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2022.09.26-09.59.25:377][880]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-09.59.27:712][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-09.59.27:713][986]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-09.59.27:713][986]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyC2C063A041C8F7D2CD5E15899FE6C6C2.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-09.59.27:724][986]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-09.59.27:724][986]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-09.59.46:885][248]LogSlate: Took 0.005252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.26-10.03.54:202][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.26-10.03.54:205][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2022.09.26-10.03.54:205][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.09.26-10.03.54:205][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.09.26-10.03.54:206][474]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto3
+[2022.09.26-10.03.54:206][474]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto3180C8149446C938135AC46AE8D654761.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto3.uasset'
+[2022.09.26-10.03.54:207][474]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.09.26-10.13.54:569][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.26-10.13.54:570][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2022.09.26-10.13.54:570][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.09.26-10.13.54:570][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.09.26-10.13.54:571][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto4
+[2022.09.26-10.13.54:571][912]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto4493CDDCE4EB3C70D63B952B55881A907.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto4.uasset'
+[2022.09.26-10.13.54:572][912]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.09.26-10.18.49:339][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.18.49:340][659]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.18.49:341][659]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyBE7C121543F2F4451D6B12B1C15E3F8F.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.18.49:354][659]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.18.49:354][659]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.24.12:601][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.26-10.24.12:602][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2022.09.26-10.24.12:602][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.09.26-10.24.12:602][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.09.26-10.24.12:604][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto5
+[2022.09.26-10.24.12:604][956]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto5CD3BB9B04230CC1765D089A8E8E5B790.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto5.uasset'
+[2022.09.26-10.24.12:604][956]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.09.26-10.25.28:583][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.25.28:585][343]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.25.28:585][343]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyA7D7097F4C79A73FA46A4B93EDE4BB01.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.25.28:597][343]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.25.28:597][343]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.25.56:214][716]LogSlate: Window 'Save Asset As' being destroyed
+[2022.09.26-10.25.56:227][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2022.09.26-10.25.56:228][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-10.25.56:716][716]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPerson/AI/BTT_ChasePlayer.
+[2022.09.26-10.26.30:890][883]LogDerivedDataCache: C:/Users/CB264195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.26-10.26.42:467][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_ChasePlayer" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_ChasePlayer.uasset" SILENT=true
+[2022.09.26-10.26.42:480][237]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_ChasePlayer
+[2022.09.26-10.26.42:480][237]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_ChasePlayer6CABDC094B6D14B69DAC0EB73291FF2A.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_ChasePlayer.uasset'
+[2022.09.26-10.26.42:492][237]AssetCheck: New page: Asset Save: BTT_ChasePlayer
+[2022.09.26-10.26.42:492][237]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2022.09.26-10.26.42:493][237]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/AI/BTT_ChasePlayer.
+[2022.09.26-10.27.34:433][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.27.34:435][759]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.27.34:435][759]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyC2B8C05C4F7FEC5E2491F995BC88CB5D.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.27.34:470][759]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.27.34:470][759]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.28.41:067][ 99]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.26-10.29.17:694][270]LogSlate: Window 'Save Asset As' being destroyed
+[2022.09.26-10.29.17:706][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-10.29.17:706][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-10.29.18:055][270]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPerson/AI/BTT_FindRandomPatrol.
+[2022.09.26-10.29.20:916][397]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindRandomPatrol
+[2022.09.26-10.29.20:916][397]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindRandomPatrol3BD8869D4156EEF2B4057AB805DAB00C.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset'
+[2022.09.26-10.29.20:926][397]AssetCheck: New page: Asset Save: BTT_FindRandomPatrol
+[2022.09.26-10.29.20:926][397]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2022.09.26-10.29.20:995][402]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/AI/BTT_FindRandomPatrol.
+[2022.09.26-10.29.37:264][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.29.37:266][191]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.29.37:267][191]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy930009004C8FFC6CDD77A88DB130729E.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.29.37:278][191]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.29.37:278][191]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.30.27:331][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.30.27:333][648]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.30.27:333][648]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy524ED72A4D09F6A2994224A193ECB2F0.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.30.27:345][648]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.30.27:345][648]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.31.35:747][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.09.26-10.31.35:750][142]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.09.26-10.31.35:750][142]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyD9E56EF24E3972D97E56299092DA9D20.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.09.26-10.31.35:762][142]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.09.26-10.31.35:762][142]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.09.26-10.31.46:947][153]LogSlate: Window 'BTT_FindRandomPatrol' being destroyed
