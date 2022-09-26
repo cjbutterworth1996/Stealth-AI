@@ -1017,3 +1017,38 @@ Script Stack (0 frames):
 [2022.09.26-09.45.09:022][ 47]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/3VNVZTFCS71J8GPIYIY5DU7F1B6F914C8281EC11C25198D6B1BC47.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TJ/3VNVZTFCS71J8GPIYIY5DU.uasset'
 [2022.09.26-09.45.09:034][ 47]AssetCheck: New page: Asset Save: NavMeshBoundsVolume_UAID_8CEC4B6DCB85253A01_1626272920
 [2022.09.26-09.45.09:034][ 47]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_8CEC4B6DCB85253A01_1626272920
+[2022.09.26-09.47.43:899][531]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2022.09.26-09.47.43:905][531]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2022.09.26-09.47.43:923][532]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2022.09.26-09.47.49:077][785]LogContentBrowser: Attempting asset rename: NewBlackboardData -> Enemy_BB
+[2022.09.26-09.47.49:079][785]LogContentBrowser: End creating deferred item NewBlackboardData
+[2022.09.26-09.47.59:125][119]LogContentBrowser: Attempting asset rename: Enemy_BB -> BB_Enemy
+[2022.09.26-09.47.59:246][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BB_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset" SILENT=true
+[2022.09.26-09.47.59:247][119]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BB_Enemy
+[2022.09.26-09.47.59:247][119]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BB_Enemy85E5337A40925448921C0C8AE3532D5E.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset'
+[2022.09.26-09.47.59:288][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.09.26-09.47.59:314][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.26-09.47.59:336][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.26-09.47.59:340][119]AssetCheck: New page: Asset Save: BB_Enemy
+[2022.09.26-09.47.59:340][119]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
+[2022.09.26-09.48.16:240][283]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
+[2022.09.26-09.48.18:270][374]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.26-09.48.52:642][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.09.26-09.48.52:644][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2022.09.26-09.48.52:644][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BB_Enemy] ([1] browsable assets)...
+[2022.09.26-09.48.52:644][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BB_Enemy]
+[2022.09.26-09.48.52:645][ 50]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BB_Enemy_Auto2
+[2022.09.26-09.48.52:645][ 50]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BB_Enemy_Auto2F049FB5F499E4394437501BEA0BE4649.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BB_Enemy_Auto2.uasset'
+[2022.09.26-09.48.52:645][ 50]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.09.26-09.52.07:589][663]Cmd: TRANSACTION UNDO
+[2022.09.26-09.52.07:589][663]LogEditorTransaction: Undo Delete Blackboard Entry
+[2022.09.26-09.52.17:931][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BB_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset" SILENT=true
+[2022.09.26-09.52.17:932][143]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BB_Enemy
+[2022.09.26-09.52.17:932][143]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BB_EnemyCD102539450A68B5002B16AC5DFF206E.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset'
+[2022.09.26-09.52.17:945][143]AssetCheck: New page: Asset Save: BB_Enemy
+[2022.09.26-09.52.17:945][143]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
+[2022.09.26-09.54.22:379][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BB_Enemy" FILE="D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset" SILENT=true
+[2022.09.26-09.54.22:380][865]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BB_Enemy
+[2022.09.26-09.54.22:381][865]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/BB_Enemy56012A0C42284339E51F18ACCE153061.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset'
+[2022.09.26-09.54.22:392][865]AssetCheck: New page: Asset Save: BB_Enemy
+[2022.09.26-09.54.22:392][865]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
