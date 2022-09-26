@@ -897,3 +897,8 @@ Script Stack (0 frames):
 [2022.09.26-09.34.26:386][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2022.09.26-09.34.26:427][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2022.09.26-09.34.26:655][295]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.26-09.34.56:015][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.09.26-09.34.56:026][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A1/4JOM080AL3KOH479DZYPOG_Auto1
+[2022.09.26-09.34.56:026][486]LogSavePackage: Moving 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/4JOM080AL3KOH479DZYPOG_Auto118FFE68548C14AA5F54CF58150891273.tmp' to 'D:/CP244311_COMP280_A1/cp24311_comp280_a1/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A1/4JOM080AL3KOH479DZYPOG_Auto1.uasset'
+[2022.09.26-09.34.56:027][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.072
+[2022.09.26-09.34.56:027][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
