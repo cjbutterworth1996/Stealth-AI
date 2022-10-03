@@ -1449,3 +1449,86 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-12.03.37:424][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.03-12.03.37:428][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2022.10.03-12.03.37:485][602]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.10.03-12.06.12:260][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-12.06.12:268][372]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-12.06.12:269][372]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Crouch_to_Stand_Rifle_Hip_Montag5A56348F4A4099B5077090A08426F1EF.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset'
+[2022.10.03-12.06.12:289][372]AssetCheck: New page: Asset Save: Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-12.06.12:289][372]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-12.06.22:382][664]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-12.06.22:382][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.06.22:442][664]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-12.06.22:442][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.06.25:511][957]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.06.25:511][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-12.06.25:536][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-12.06.25:665][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-12.06.32:034][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-12.06.32:035][409]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.06.32:036][409]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_MontagAA2059AF4B1C47EFCB2EEE89493288E1.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset'
+[2022.10.03-12.06.32:050][409]AssetCheck: New page: Asset Save: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.06.32:050][409]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.06.35:102][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.03-12.06.35:108][604]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2022.10.03-12.06.35:109][604]LogWorldPartition: Display: GenerateStreaming took 266 us
+[2022.10.03-12.06.35:109][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.03-12.06.35:109][604]PIE: New page: PIE session: ThirdPersonMap (3 Oct 2022, 14:06:35)
+[2022.10.03-12.06.35:109][604]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-12.06.35:114][604]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.03-12.06.35:114][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005293s)
+[2022.10.03-12.06.35:114][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005706s)
+[2022.10.03-12.06.35:114][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-12.06.35:114][604]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.03-12.06.35:116][604]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.03-12.06.35:116][604]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.03-12.06.35:117][604]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.03-12.06.35:117][604]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2022.10.03-12.06.35:163][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.03-12.06.35:166][604]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.03-12.06.35:166][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.03-12.06.35:167][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.03-12.06.35:167][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.03-12.06.35:167][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.03-12.06.35:167][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.03-12.06.35:167][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.03-12.06.35:169][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.03-12.06.35:179][604]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2022.10.03-12.06.35:180][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.03-12.06.35:180][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.03-12.06.35:180][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.03-12.06.35:181][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.10.03-12.06.35:181][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.10.03-12.06.35:183][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.10.03-12.06.35:183][604]LogInit: FAudioDevice initialized.
+[2022.10.03-12.06.35:183][604]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13876
+[2022.10.03-12.06.35:183][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2022.10.03-12.06.35:183][604]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2022.10.03-12.06.35:197][604]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.03-12.06.35:201][604]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.03-13.06.35
+[2022.10.03-12.06.35:202][604]LogWorld: Bringing up level for play took: 0.004200
+[2022.10.03-12.06.35:204][604]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.10.03-12.06.35:205][604]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.03-12.06.35:205][604]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-12.06.35:205][604]PIE: Server logged in
+[2022.10.03-12.06.35:206][604]PIE: Play in editor total start time 0.098 seconds.
+[2022.10.03-12.06.41:241][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-12.06.41:241][817]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-12.06.41:241][817]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-12.06.41:242][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.06.41:269][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.03-12.06.41:275][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.06.41:318][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.03-12.06.41:318][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.03-12.06.41:320][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.03-12.06.41:321][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-12.06.41:325][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.10.03-12.06.41:418][818]LogPlayLevel: Display: Destroying online subsystem :Context_41
