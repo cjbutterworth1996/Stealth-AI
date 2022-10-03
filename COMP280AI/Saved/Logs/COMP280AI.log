@@ -1347,3 +1347,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-11.56.22:137][815]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim1C918C384D222F42730FA78F6478B296.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
 [2022.10.03-11.56.22:150][815]AssetCheck: New page: Asset Save: BP_PlayerAnim
 [2022.10.03-11.56.22:150][815]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.59.14:533][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.59.14:552][908]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.59.14:552][908]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim486D0A6B44074807F178D1B7F22F0131.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.59.14:565][908]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.59.14:565][908]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.59.16:346][101]BlueprintLog: New page: Compile BP_PlayerAnim
+[2022.10.03-11.59.16:428][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
