@@ -741,3 +741,231 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-10.44.15:349][441]LogDerivedDataCache: C:/Users/CB264195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
 [2022.10.03-10.45.46:642][510]LogSlate: Window 'Project Settings' being destroyed
 [2022.10.03-10.45.46:649][510]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.03-10.55.47:756][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2022.10.03-10.55.47:757][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2022.10.03-10.55.47:772][225]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2022.10.03-10.55.47:775][225]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2022.10.03-10.55.54:909][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2022.10.03-10.55.54:909][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2022.10.03-10.55.54:921][631]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_8CEC4B6BA8C35D3C01_1152067887
+[2022.10.03-10.55.54:924][631]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_8CEC4B6BA8C35D3C01_1152067887
+[2022.10.03-10.55.55:063][631]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-10.55.59:423][736]Cmd: DELETE
+[2022.10.03-10.55.59:423][736]Cmd: ACTOR DELETE
+[2022.10.03-10.55.59:469][736]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2022.10.03-10.55.59:515][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.10.03-10.55.59:518][736]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.10.03-10.56.59:248][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.10.03-10.56.59:252][975]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2022.10.03-10.57.09:724][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.03-10.57.09:738][379]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.03-10.57.09:738][379]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.03-10.57.09:738][379]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-10.57.09:739][379]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.03-10.57.09:739][379]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.03-10.57.09:739][379]LogWorldPartition: Display: GetPartitionedActors took 440 us
+[2022.10.03-10.57.09:739][379]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.03-10.57.09:746][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.03-10.57.09:751][379]PIE: New page: PIE session: ThirdPersonMap (3 Oct 2022, 12:57:09)
+[2022.10.03-10.57.09:764][379]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.03-10.57.09:765][379]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.03-10.57.09:769][379]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-10.57.09:786][379]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.03-10.57.09:788][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018556s)
+[2022.10.03-10.57.09:788][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.019427s)
+[2022.10.03-10.57.09:790][379]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-10.57.09:790][379]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.03-10.57.09:791][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.03-10.57.09:791][379]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.03-10.57.09:793][379]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.03-10.57.09:793][379]LogPlayLevel: PIE: World Init took: (0.005401s)
+[2022.10.03-10.57.09:801][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.03-10.57.09:804][379]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.03-10.57.09:804][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.03-10.57.09:804][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.03-10.57.09:805][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.03-10.57.09:805][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.03-10.57.09:805][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.03-10.57.09:807][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.03-10.57.09:817][379]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2022.10.03-10.57.09:818][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.03-10.57.09:818][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.03-10.57.09:818][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.03-10.57.09:819][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.03-10.57.09:819][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.03-10.57.09:821][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.03-10.57.09:821][379]LogInit: FAudioDevice initialized.
+[2022.10.03-10.57.09:821][379]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11432
+[2022.10.03-10.57.09:821][379]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2022.10.03-10.57.09:821][379]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.03-10.57.09:839][379]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.03-10.57.09:843][379]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.03-11.57.09
+[2022.10.03-10.57.09:874][379]LogWorld: Bringing up level for play took: 0.034226
+[2022.10.03-10.57.09:879][379]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.10.03-10.57.09:984][379]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.03-10.57.09:984][379]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-10.57.09:993][379]PIE: Server logged in
+[2022.10.03-10.57.09:993][379]PIE: Play in editor total start time 0.262 seconds.
+[2022.10.03-10.58.23:588][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-10.58.23:589][122]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-10.58.23:592][122]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-10.58.23:594][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-10.58.23:614][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.03-10.58.23:618][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-10.58.23:628][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-10.58.23:637][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.03-10.58.23:640][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.03-10.58.23:652][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.03-10.58.23:672][123]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.03-10.58.42:585][309]Cmd: SELECT NONE
+[2022.10.03-10.58.43:146][329]Cmd: SELECT NONE
+[2022.10.03-10.59.15:321][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.03-10.59.15:324][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-10.59.17:271][519]LogSlate: Took 0.005338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.03-10.59.43:160][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2022.10.03-10.59.43:166][114]LogWorldPartition: Display: GenerateStreaming took 232 us
+[2022.10.03-10.59.43:166][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.03-10.59.43:167][114]PIE: New page: PIE session: ThirdPersonMap (3 Oct 2022, 12:59:43)
+[2022.10.03-10.59.43:167][114]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-10.59.43:176][114]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.03-10.59.43:176][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009262s)
+[2022.10.03-10.59.43:176][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009313s)
+[2022.10.03-10.59.43:176][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-10.59.43:176][114]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.03-10.59.43:177][114]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.03-10.59.43:177][114]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.03-10.59.43:178][114]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.03-10.59.43:178][114]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2022.10.03-10.59.43:209][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.03-10.59.43:210][114]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.03-10.59.43:210][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.03-10.59.43:210][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.03-10.59.43:210][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.03-10.59.43:210][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.03-10.59.43:210][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.03-10.59.43:212][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.03-10.59.43:222][114]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2022.10.03-10.59.43:222][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.03-10.59.43:222][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.03-10.59.43:222][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.03-10.59.43:223][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.03-10.59.43:223][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.03-10.59.43:225][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.03-10.59.43:225][114]LogInit: FAudioDevice initialized.
+[2022.10.03-10.59.43:225][114]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.10.03-10.59.43:227][114]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8032
+[2022.10.03-10.59.43:227][114]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2022.10.03-10.59.43:234][114]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.03-10.59.43:237][114]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.03-11.59.43
+[2022.10.03-10.59.43:238][114]LogWorld: Bringing up level for play took: 0.003517
+[2022.10.03-10.59.43:239][114]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.10.03-10.59.43:242][114]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.03-10.59.43:242][114]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-10.59.43:242][114]PIE: Server logged in
+[2022.10.03-10.59.43:243][114]PIE: Play in editor total start time 0.077 seconds.
+[2022.10.03-10.59.43:689][118]LogSlate: Took 0.003787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.03-10.59.53:124][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-10.59.53:124][467]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-10.59.53:124][467]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-10.59.53:124][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-10.59.53:157][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.03-10.59.53:161][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-10.59.53:186][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-10.59.53:186][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.03-10.59.53:187][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.03-10.59.53:191][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.03-10.59.53:269][468]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.03-11.00.48:684][951]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.01.03:459][484]LogSlate: Took 0.004018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.03-11.02.38:728][804]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.10.03-11.02.38:770][804]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-11.03.08:127][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2022.10.03-11.03.08:127][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2022.10.03-11.03.08:127][  2]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2022.10.03-11.03.08:147][  2]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.10.03-11.03.09:409][  2]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2022.10.03-11.03.12:639][  2]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2022.10.03-11.03.16:507][  2]LogSkeletalMesh: Built Skeletal Mesh [8.39s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.03-11.03.16:554][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2022.10.03-11.03.16:554][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2022.10.03-11.03.16:607][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2022.10.03-11.03.16:607][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2022.10.03-11.03.16:735][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2022.10.03-11.03.16:735][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2022.10.03-11.03.16:742][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2022.10.03-11.03.16:742][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2022.10.03-11.03.16:792][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2022.10.03-11.03.16:792][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2022.10.03-11.03.16:838][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2022.10.03-11.03.16:838][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2022.10.03-11.03.37:915][ 16]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-11.03.46:551][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2022.10.03-11.03.46:562][ 17]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006798 seconds
+[2022.10.03-11.03.46:608][ 17]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.03-11.03.46:608][ 17]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacter120C2A90470386C9D6FBEDA2EBC40463.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.03-11.03.46:633][ 17]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.03-11.03.46:634][ 17]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:202][124]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: FC715D7751F9DECE6A71BDABCAAC2EF2D9762D38), compiling. 
+[2022.10.03-11.06.42:398][124]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.10.03-11.06.42:398][124]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: A9083772A223F287AD5E613E57AC19E28305D4A4), compiling. 
+[2022.10.03-11.06.42:478][124]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.10.03-11.06.42:507][124]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.10.03-11.06.45:525][395]LogShaderCompilers: Display: ================================================
+[2022.10.03-11.06.45:525][395]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.03-11.06.45:525][395]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2022.10.03-11.06.45:525][395]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Shaders Compiled: 128
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Jobs assigned 65, completed 1 (1.54%)
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 3.05 s
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Job execution time: average 3.11 s, max 3.11 s
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Job life time (pending + execution): average 3.13 s, max 3.13
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.13 s
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 7.22 jobs/batch
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Average processing rate: 0.32 jobs/sec
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Effective parallelization: 0.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2022.10.03-11.06.45:526][395]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.10.03-11.06.45:527][395]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 100.00% of total time (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2022.10.03-11.06.45:527][395]LogShaderCompilers: Display: ================================================
+[2022.10.03-11.08.23:290][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.03-11.08.23:291][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2022.10.03-11.08.23:292][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.10.03-11.08.23:330][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.10.03-11.08.23:330][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.10.03-11.08.23:341][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2022.10.03-11.08.23:341][860]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacter_Auto1EB7741DB4C4E51CA175CBE8CB1A9EC3D.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2022.10.03-11.08.23:342][860]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.10.03-11.09.49:422][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2022.10.03-11.09.49:431][457]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.03-11.09.49:432][457]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacterD841FC274255CB8E50DE5F8E6E6C63E7.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.03-11.09.49:441][457]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.03-11.09.49:441][457]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
