@@ -1115,3 +1115,235 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-11.17.05:998][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.03-11.17.06:001][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2022.10.03-11.17.06:091][661]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.10.03-11.18.45:652][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.03-11.18.45:653][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2022.10.03-11.20.29:251][810]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-11.20.59:825][810]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.03-11.22.11:392][747]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.10.03-11.22.11:401][747]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.10.03-11.22.11:406][747]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.10.03-11.22.11:423][749]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2022.10.03-11.22.19:227][685]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_PlayerAnim
+[2022.10.03-11.22.19:307][685]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.10.03-11.22.29:654][142]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.22.29:666][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.22.29:744][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.22.29:824][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.22.30:609][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.22.38:013][884]LogSlate: Window 'BP_PlayerAnim' being destroyed
+[2022.10.03-11.28.46:241][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.03-11.28.46:244][852]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.095
+[2022.10.03-11.29.17:730][103]LogSlate: Took 0.005260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.03-11.29.22:371][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.29.22:379][641]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.29.22:379][641]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnimEE1AB6AA49FF8A9FA6F5C8981BC24A6B.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.29.22:390][641]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.29.22:390][641]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.30.53:212][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.30.53:218][750]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.30.53:219][750]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim2E136ECE417BB0394CA2F2953E7F6A87.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.30.53:231][750]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.30.53:231][750]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.32.28:524][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.32.28:530][ 12]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.32.28:531][ 12]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnimA1F067B44031D8C2C9DF58B3A4451BDB.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.32.28:546][ 12]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.32.28:546][ 12]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.34.35:407][296]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.03-11.34.43:499][238]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2022.10.03-11.34.43:499][238]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2022.10.03-11.35.12:721][164]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.10.03-11.35.13:359][232]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.03-11.35.17:400][688]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2022.10.03-11.35.17:400][688]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2022.10.03-11.35.17:400][688]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2022.10.03-11.35.17:416][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.35.17:425][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.35.17:567][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.35.18:062][688]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.35.18:069][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.35.18:123][688]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.03-11.35.22:629][ 54]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.35.22:629][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.35.22:657][ 54]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.35.22:657][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.35.22:768][ 54]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.35.22:768][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.36.01:943][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.36.01:953][622]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.36.01:954][622]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim06C5ADFF42CDFB4FC9EA35AECA26D1FA.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.36.01:969][622]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.36.01:969][622]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.36.02:969][735]BlueprintLog: New page: Compile BP_PlayerAnim
+[2022.10.03-11.36.03:148][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.03-11.36.41:377][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.36.41:387][641]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.36.41:387][641]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim45A3377C4F4FA9A3200D6E8977F8585A.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.36.41:400][641]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.36.41:400][641]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.36.42:544][762]BlueprintLog: New page: Compile BP_PlayerAnim
+[2022.10.03-11.36.42:671][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.03-11.36.43:016][790]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2022.10.03-11.38.16:915][ 20]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2022.10.03-11.38.16:983][ 20]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2022.10.03-11.38.16:997][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2022.10.03-11.38.17:008][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2022.10.03-11.38.40:180][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2022.10.03-11.38.40:227][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2022.10.03-11.38.40:227][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2022.10.03-11.38.40:262][341]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2022.10.03-11.40.21:833][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.40.21:850][581]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.40.21:850][581]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnimFDDD066246CF071CB841A6A686F9023A.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.40.21:866][581]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.40.21:866][581]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.40.23:122][722]BlueprintLog: New page: Compile BP_PlayerAnim
+[2022.10.03-11.40.23:194][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.03-11.40.34:736][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.40.34:758][ 19]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.40.34:758][ 19]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnimEBC6E38D4CD6EF0E0D436ABCE97B4C9A.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.40.34:770][ 19]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.40.34:770][ 19]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.41.11:859][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.03-11.41.11:862][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.045
+[2022.10.03-11.41.53:375][503]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2022.10.03-11.41.53:375][503]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2022.10.03-11.41.53:375][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.41.53:387][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.41.53:517][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.41.53:609][503]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-11.41.53:615][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.41.53:665][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.03-11.42.12:554][ 80]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.03-11.42.12:554][ 80]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.03-11.42.14:784][227]LogContentBrowser: Deferred new asset file creation: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.42.14:796][227]LogContentBrowser: Creating deferred item: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.42.14:814][228]LogContentBrowser: Renaming the item being created (Deferred Item: Stand_to_Crouch_Rifle_Hip_Montage).
+[2022.10.03-11.42.26:218][370]LogContentBrowser: Attempting asset rename: Stand_to_Crouch_Rifle_Hip_Montage -> Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.42.26:231][370]LogContentBrowser: End creating deferred item Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.42.42:904][562]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2022.10.03-11.42.45:123][709]LogContentBrowser: Deferred new asset file creation: Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.42.45:131][709]LogContentBrowser: Creating deferred item: Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.42.45:144][710]LogContentBrowser: Renaming the item being created (Deferred Item: Crouch_to_Stand_Rifle_Hip_Montage).
+[2022.10.03-11.42.46:229][791]LogContentBrowser: Attempting asset rename: Crouch_to_Stand_Rifle_Hip_Montage -> Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.42.46:239][791]LogContentBrowser: End creating deferred item Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.44.15:413][184]LogDerivedDataCache: C:/Users/CB264195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.043 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.03-11.44.41:578][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-11.44.41:579][489]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.44.41:579][489]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Crouch_to_Stand_Rifle_Hip_Montag96EBF1404EEC72D6AAC829AE3C448B0D.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset'
+[2022.10.03-11.44.41:596][489]AssetCheck: New page: Asset Save: Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.44.41:596][489]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.44.42:712][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-11.44.42:714][548]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.44.42:714][548]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_MontagDE212B2F42A5B5C474A21C801C6D0E62.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset'
+[2022.10.03-11.44.42:726][548]AssetCheck: New page: Asset Save: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.44.42:726][548]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.44.48:999][900]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.44.49:079][900]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.44.49:079][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.45.14:909][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.45.27:585][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.45.27:619][399]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.45.27:619][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.45.30:231][558]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.45.30:231][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.45.30:317][558]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.45.30:317][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.45.30:328][558]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.45.30:328][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.45.35:094][ 40]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.45.35:094][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.45.35:120][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.35:245][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.45.37:082][168]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.37:091][168]LogEditorTransaction: Undo Edit Section Start Time
+[2022.10.03-11.45.37:248][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.37:250][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.40:096][361]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.40:096][361]LogEditorTransaction: Undo Edit Segment Start Time
+[2022.10.03-11.45.40:252][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.40:254][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.42:171][483]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.42:171][483]LogEditorTransaction: Undo Resizing Play Length
+[2022.10.03-11.45.42:180][483]LogScript: Error: Script Msg: /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage : Invalid play length value provided: 0 seconds
+[2022.10.03-11.45.42:347][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.42:349][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.43:636][575]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.43:636][575]LogEditorTransaction: Undo Resizing Play Length
+[2022.10.03-11.45.43:637][575]LogScript: Error: Script Msg: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage : Invalid play length value provided: 0 seconds
+[2022.10.03-11.45.43:794][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.43:795][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.44:502][620]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.44:502][620]LogEditorTransaction: Undo Move Node
+[2022.10.03-11.45.44:671][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.44:672][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.46:160][727]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.46:160][727]LogEditorTransaction: Undo Move Node
+[2022.10.03-11.45.46:329][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.46:330][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.47:805][833]Cmd: TRANSACTION UNDO
+[2022.10.03-11.45.47:805][833]LogEditorTransaction: Undo Create Pin Link
+[2022.10.03-11.45.47:978][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.45.47:979][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.46.07:350][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.46.07:390][822]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.46.07:391][822]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim3D6CE3A94C3AA66A5AE2FABCB2A3ECFE.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.46.07:417][822]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.46.07:417][822]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.46.16:504][750]BlueprintLog: New page: Compile BP_PlayerAnim
+[2022.10.03-11.46.16:587][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.03-11.46.20:467][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.46.20:486][176]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.46.20:486][176]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnimB7FAFF3047F8B9CC12E3E9B7204D6F42.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.46.20:498][176]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.46.20:498][176]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.46.24:528][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-11.46.24:529][489]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.46.24:530][489]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_Montag4083F7D44E1FD516520BEE8FC72B60FC.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset'
+[2022.10.03-11.46.24:542][489]AssetCheck: New page: Asset Save: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.46.24:542][489]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.47.50:265][799]Cmd: TRANSACTION UNDO
+[2022.10.03-11.47.50:265][799]LogEditorTransaction: Undo Insert Notify Track
+[2022.10.03-11.47.50:420][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.47.50:421][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.49.51:008][872]Cmd: TRANSACTION UNDO
+[2022.10.03-11.49.51:008][872]LogEditorTransaction: Undo Add Notify Track
+[2022.10.03-11.49.51:160][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.49.51:161][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.51.10:932][770]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-11.51.24:761][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.03-11.51.24:764][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.056
+[2022.10.03-11.51.24:765][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage] ([1] browsable assets)...
+[2022.10.03-11.51.24:779][581]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage]
+[2022.10.03-11.51.24:779][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage]
+[2022.10.03-11.51.24:781][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage_Auto2
+[2022.10.03-11.51.24:781][581]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_Montag18EFF28840A0904CFB5CD5949F7FA4F1.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage_Auto2.uasset'
+[2022.10.03-11.51.24:781][581]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.10.03-11.54.31:007][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.54.31:025][811]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.54.31:026][811]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim6AAF17EC44CCBE40AE7B33BF0E1375B0.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.54.31:039][811]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.54.31:039][811]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
+[2022.10.03-11.54.36:548][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-11.54.36:550][268]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.54.36:550][268]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_MontagAD33B3D24F2CF6080F065DBCB0EFE240.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset'
+[2022.10.03-11.54.36:564][268]AssetCheck: New page: Asset Save: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.54.36:564][268]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-11.54.44:298][845]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.54.44:298][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.54.44:354][845]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-11.54.44:354][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-11.54.52:278][609]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.54.52:278][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.54.52:303][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.03-11.54.52:423][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-11.55.37:743][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-11.55.37:745][744]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.55.37:746][744]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Crouch_to_Stand_Rifle_Hip_Montag94F2180148E84D1A93775ABA440CF09E.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.uasset'
+[2022.10.03-11.55.37:760][744]AssetCheck: New page: Asset Save: Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.55.37:760][744]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip_Montage.Crouch_to_Stand_Rifle_Hip_Montage
+[2022.10.03-11.56.22:099][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset" SILENT=true
+[2022.10.03-11.56.22:136][815]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim
+[2022.10.03-11.56.22:137][815]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_PlayerAnim1C918C384D222F42730FA78F6478B296.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.uasset'
+[2022.10.03-11.56.22:150][815]AssetCheck: New page: Asset Save: BP_PlayerAnim
+[2022.10.03-11.56.22:150][815]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
