@@ -1895,3 +1895,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-12.12.13:448][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.03-12.12.13:451][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
 [2022.10.03-12.12.13:526][815]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.03-12.13.11:158][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset" SILENT=true
+[2022.10.03-12.13.11:159][386]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.13.11:160][386]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/Stand_to_Crouch_Rifle_Hip_MontagB2043A4B46CEC1749CBB578AAC143638.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.uasset'
+[2022.10.03-12.13.11:173][386]AssetCheck: New page: Asset Save: Stand_to_Crouch_Rifle_Hip_Montage
+[2022.10.03-12.13.11:173][386]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip_Montage.Stand_to_Crouch_Rifle_Hip_Montage
