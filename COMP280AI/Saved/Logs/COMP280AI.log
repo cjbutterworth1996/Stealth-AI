@@ -1354,3 +1354,98 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.03-11.59.14:565][908]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson/Blueprints/Animations/BP_PlayerAnim.BP_PlayerAnim
 [2022.10.03-11.59.16:346][101]BlueprintLog: New page: Compile BP_PlayerAnim
 [2022.10.03-11.59.16:428][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.03-12.00.40:916][451]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-12.00.42:922][685]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.03-12.00.49:042][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2022.10.03-12.00.49:072][372]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.03-12.00.49:072][372]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacter8339B2154ACF302BE918EBB559AB798E.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.03-12.00.49:086][372]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.03-12.00.49:086][372]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.03-12.00.59:985][748]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.10.03-12.01.00:079][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.03-12.01.36:510][588]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.03-12.02.21:745][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.03-12.02.21:749][100]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2022.10.03-12.02.21:749][100]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.10.03-12.02.21:762][100]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.10.03-12.02.21:762][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.10.03-12.02.21:775][100]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2022.10.03-12.02.21:775][100]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacter_Auto3BBD2CB414054032DB8BE079D3EA6C16C.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2022.10.03-12.02.21:776][100]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2022.10.03-12.02.21:789][100]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton]
+[2022.10.03-12.02.21:789][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2022.10.03-12.02.21:790][100]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto3
+[2022.10.03-12.02.21:790][100]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/UE4_Mannequin_Skeleton_Auto3076B005E483DB88D9F702DB59E0A9B6B.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset'
+[2022.10.03-12.02.21:791][100]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.10.03-12.02.59:637][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2022.10.03-12.02.59:650][115]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.03-12.02.59:650][115]LogSavePackage: Moving 'D:/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonCharacter6B4A936943C2CA55166A5890DD17E6A1.tmp' to 'D:/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.03-12.02.59:664][115]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.03-12.02.59:664][115]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.03-12.03.00:491][210]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.10.03-12.03.00:578][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.03-12.03.10:695][655]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.10.03-12.03.10:702][655]LogWorldPartition: Display: GenerateStreaming took 261 us
+[2022.10.03-12.03.10:703][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.03-12.03.10:703][655]PIE: New page: PIE session: ThirdPersonMap (3 Oct 2022, 14:03:10)
+[2022.10.03-12.03.10:703][655]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-12.03.10:714][655]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.03-12.03.10:714][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010111s)
+[2022.10.03-12.03.10:714][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010170s)
+[2022.10.03-12.03.10:714][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-12.03.10:714][655]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.03-12.03.10:715][655]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.03-12.03.10:715][655]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.03-12.03.10:716][655]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.03-12.03.10:716][655]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2022.10.03-12.03.10:759][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.03-12.03.10:761][655]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.03-12.03.10:761][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.03-12.03.10:761][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.03-12.03.10:762][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.03-12.03.10:762][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.03-12.03.10:762][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.03-12.03.10:765][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.03-12.03.10:775][655]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2022.10.03-12.03.10:776][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.03-12.03.10:776][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.03-12.03.10:776][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.03-12.03.10:778][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.03-12.03.10:778][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.03-12.03.10:779][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.03-12.03.10:779][655]LogInit: FAudioDevice initialized.
+[2022.10.03-12.03.10:779][655]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22852
+[2022.10.03-12.03.10:779][655]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=6
+[2022.10.03-12.03.10:779][655]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2022.10.03-12.03.10:794][655]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.03-12.03.10:799][655]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.03-13.03.10
+[2022.10.03-12.03.10:799][655]LogWorld: Bringing up level for play took: 0.004844
+[2022.10.03-12.03.10:802][655]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.10.03-12.03.10:803][655]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.03-12.03.10:803][655]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.03-12.03.10:804][655]PIE: Server logged in
+[2022.10.03-12.03.10:804][655]PIE: Play in editor total start time 0.103 seconds.
+[2022.10.03-12.03.37:340][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-12.03.37:340][601]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.03-12.03.37:340][601]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-12.03.37:341][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.03.37:372][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.03-12.03.37:379][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-12.03.37:421][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.03-12.03.37:421][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.03-12.03.37:423][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.03-12.03.37:424][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.03-12.03.37:428][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.03-12.03.37:485][602]LogPlayLevel: Display: Destroying online subsystem :Context_38
