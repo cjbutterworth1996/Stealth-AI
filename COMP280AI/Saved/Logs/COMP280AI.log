@@ -1349,3 +1349,238 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.31-11.29.26:981][246]BlueprintLog: New page: Compile Enemy_Guard
 [2022.10.31-11.29.27:087][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2022.10.31-11.29.41:245][567]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.35.36:582][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.31-11.35.36:588][875]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto6
+[2022.10.31-11.35.36:588][875]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKI_Auto68C2DF18B4C20308D8808758DC6193129.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto6.uasset'
+[2022.10.31-11.35.36:588][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2022.10.31-11.35.36:588][875]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.10.31-11.38.02:044][430]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.10.31-11.38.19:994][513]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-11.38.19:994][513]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_114 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-11.38.19:994][513]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_110 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-11.38.19:994][513]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_112 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-11.39.04:744][911]LogSlate: Window 'Save Asset As' being destroyed
+[2022.10.31-11.39.04:753][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.39.04:753][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.39.05:122][911]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPerson/AI/BTT_FindPatrolPoint.
+[2022.10.31-11.39.07:836][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-11.39.07:837][216]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-11.39.07:837][216]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint911C50C34FA1C008ED968B9F4C375D3C.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-11.39.07:847][216]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-11.39.07:847][216]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.39.07:848][216]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/AI/BTT_FindPatrolPoint.
+[2022.10.31-11.39.09:596][408]LogSlate: Window 'BTT_FindPatrolPoint' being destroyed
+[2022.10.31-11.39.11:029][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.10.31-11.39.11:032][568]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.10.31-11.39.11:033][568]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy42ED6F2A4F0C6A7C8A2F41A6CCD74B8F.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.10.31-11.39.11:043][568]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.10.31-11.39.11:043][568]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.10.31-11.45.49:037][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.31-11.45.49:038][331]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2022.10.31-11.45.49:039][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.10.31-11.45.49:039][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.10.31-11.45.49:042][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto7
+[2022.10.31-11.45.49:042][331]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto733396513463BED67649BD987F52803D9.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto7.uasset'
+[2022.10.31-11.45.49:042][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint] ([2] browsable assets)...
+[2022.10.31-11.45.49:042][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint]
+[2022.10.31-11.45.49:044][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto7
+[2022.10.31-11.45.49:044][331]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint_Auto787A9E94E4FAD329A4280DAA9DAD0353B.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto7.uasset'
+[2022.10.31-11.45.49:044][331]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.10.31-11.47.31:331][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-11.47.31:334][119]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-11.47.31:334][119]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint3466BA55495EEB5293394BB79719CB13.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-11.47.31:346][119]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-11.47.31:346][119]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.47.32:298][230]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-11.47.32:345][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.31-11.48.58:811][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-11.48.58:814][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-11.48.58:814][226]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointD74AC9634AD2044C5CFC74998EFAEF42.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-11.48.58:825][226]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-11.48.58:825][226]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.49.00:962][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.10.31-11.49.00:965][477]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.10.31-11.49.00:965][477]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_EnemyDDBF1BBC4BAC2C65BD621F883DA6DF3E.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.10.31-11.49.00:976][477]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.10.31-11.49.00:976][477]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.10.31-11.50.14:363][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-11.50.14:366][972]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-11.50.14:366][972]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint28E5E85F4294C4FC47B63DB928CA09B9.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-11.50.14:376][972]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-11.50.14:376][972]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.50.16:155][183]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-11.50.16:204][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.31-11.55.22:526][196]LogDerivedDataCache: C:/Users/cb264195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.014 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.31-11.56.50:239][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.31-11.56.50:240][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2022.10.31-11.56.50:240][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint] ([2] browsable assets)...
+[2022.10.31-11.56.50:241][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint]
+[2022.10.31-11.56.50:243][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto8
+[2022.10.31-11.56.50:243][423]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint_Auto8ADDD7E544A95843D6ED47997ECA1CAC1.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto8.uasset'
+[2022.10.31-11.56.50:255][423]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.10.31-11.58.24:886][939]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-11.58.24:938][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.31-11.58.44:863][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-11.58.44:866][191]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-11.58.44:866][191]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint5FE1C15944EBAA33908CF1A23AA033EF.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-11.58.44:878][191]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-11.58.44:878][191]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-11.59.10:816][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI
+[2022.10.31-11.59.10:816][923]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKI5AE6C2814C6F2941032C83BAF5110FD2.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI.uasset'
+[2022.10.31-11.59.10:830][923]AssetCheck: New page: Asset Save: Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-11.59.10:830][923]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-12.01.43:919][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Enemy_Guard" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset" SILENT=true
+[2022.10.31-12.01.43:927][466]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Guard
+[2022.10.31-12.01.43:927][466]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Enemy_Guard242F513A4258845D099DFDB69579ECE2.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset'
+[2022.10.31-12.01.43:941][466]AssetCheck: New page: Asset Save: Enemy_Guard
+[2022.10.31-12.01.43:941][466]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-12.01.44:471][529]BlueprintLog: New page: Compile Enemy_Guard
+[2022.10.31-12.01.44:602][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.31-12.06.50:896][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.31-12.06.50:900][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto9
+[2022.10.31-12.06.50:900][672]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKI_Auto91E6D25A543CE94922A776E8B377B6F8B.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto9.uasset'
+[2022.10.31-12.06.50:900][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2022.10.31-12.06.50:900][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2022.10.31-12.06.50:901][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint] ([2] browsable assets)...
+[2022.10.31-12.06.50:901][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint]
+[2022.10.31-12.06.50:904][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto9
+[2022.10.31-12.06.50:904][672]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint_Auto9009783694E463EC32015A29BC822FFAB.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto9.uasset'
+[2022.10.31-12.06.50:905][672]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.10.31-12.10.44:318][581]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-12.10.44:370][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.31-12.10.46:796][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.10.46:799][864]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.10.46:799][864]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointA3EC04FB47272437FAA7A3AF607F5D56.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.10.46:811][864]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.10.46:811][864]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.10.49:197][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.10.31-12.10.49:216][960]LogWorldPartition: Display: GenerateStreaming took 305 us
+[2022.10.31-12.10.49:219][960]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-12.10.49:220][960]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.10.31-12.10.49:263][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.31-12.10.49:264][960]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2022.10.31-12.10.49:264][960]PIE: New page: PIE session: ThirdPersonMap (31 Oct 2022, 12:10:49)
+[2022.10.31-12.10.49:264][960]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-12.10.49:276][960]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.31-12.10.49:276][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011609s)
+[2022.10.31-12.10.49:276][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011679s)
+[2022.10.31-12.10.49:276][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-12.10.49:277][960]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.31-12.10.49:277][960]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.31-12.10.49:277][960]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.31-12.10.49:278][960]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.31-12.10.49:279][960]LogPlayLevel: PIE: World Init took: (0.002480s)
+[2022.10.31-12.10.49:313][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.31-12.10.49:314][960]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-12.10.49:314][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-12.10.49:314][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-12.10.49:315][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-12.10.49:315][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-12.10.49:315][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-12.10.49:317][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-12.10.49:327][960]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2022.10.31-12.10.49:327][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-12.10.49:327][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-12.10.49:327][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-12.10.49:329][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.31-12.10.49:329][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.10.31-12.10.49:330][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.31-12.10.49:330][960]LogInit: FAudioDevice initialized.
+[2022.10.31-12.10.49:330][960]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2022.10.31-12.10.49:334][960]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19272
+[2022.10.31-12.10.49:334][960]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=5
+[2022.10.31-12.10.49:346][960]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.31-12.10.49:348][960]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.31-12.10.49
+[2022.10.31-12.10.49:349][960]LogWorld: Bringing up level for play took: 0.003592
+[2022.10.31-12.10.49:351][960]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.10.31-12.10.49:353][960]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.31-12.10.49:353][960]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-12.10.49:356][960]PIE: Server logged in
+[2022.10.31-12.10.49:356][960]PIE: Play in editor total start time 0.153 seconds.
+[2022.10.31-12.11.23:308][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-12.11.23:308][271]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-12.11.23:309][271]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-12.11.23:309][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-12.11.23:328][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-12.11.23:332][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-12.11.23:366][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-12.11.23:367][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.31-12.11.23:368][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.31-12.11.23:373][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.31-12.11.23:527][272]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.10.31-12.13.11:879][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.13.11:882][ 24]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.13.11:883][ 24]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointF45F2D3C400230D6DCF194B08A2D0E0B.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.13.11:894][ 24]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.13.11:894][ 24]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.14.51:668][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.14.51:672][730]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.14.51:673][730]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint9BE8F28A480148DE3E979B99B076E8E0.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.14.51:686][730]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.14.51:686][730]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.14.52:573][837]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-12.14.52:633][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.31-12.18.00:767][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.31-12.18.00:768][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2022.10.31-12.18.00:769][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2022.10.31-12.18.00:769][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BT_Enemy]
+[2022.10.31-12.18.00:772][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto0
+[2022.10.31-12.18.00:772][771]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy_Auto0D5111DB54CCBB85598BB06994AD61B47.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BT_Enemy_Auto0.uasset'
+[2022.10.31-12.18.00:773][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint] ([2] browsable assets)...
+[2022.10.31-12.18.00:773][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/AI/BTT_FindPatrolPoint]
+[2022.10.31-12.18.00:785][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto0
+[2022.10.31-12.18.00:785][771]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPoint_Auto0595FE5B64C29F707FE3756A7671ED517.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/ThirdPerson/AI/BTT_FindPatrolPoint_Auto0.uasset'
+[2022.10.31-12.18.00:786][771]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.10.31-12.18.04:399][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.18.04:404][196]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.18.04:405][196]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointBA8AA75C443D76050EF9559DB91016E9.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.18.04:417][196]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.18.04:417][196]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.18.05:270][298]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-12.18.05:320][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.31-12.18.08:333][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.10.31-12.18.08:337][637]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.10.31-12.18.08:337][637]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy168ECE0948E3FD0677ED6CB5A082543D.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.10.31-12.18.08:349][637]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.10.31-12.18.08:349][637]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.10.31-12.18.17:378][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.18.17:383][235]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.18.17:384][235]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointB045BFBF4EDA94C0369F4B9B6DFF18EA.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.18.17:395][235]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.18.17:395][235]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.18.18:436][359]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-12.18.18:485][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.31-12.19.12:860][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BT_Enemy" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset" SILENT=true
+[2022.10.31-12.19.12:863][930]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BT_Enemy
+[2022.10.31-12.19.12:864][930]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BT_Enemy23734CBC4F44783DBA2E1BB70A917FF7.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BT_Enemy.uasset'
+[2022.10.31-12.19.12:874][930]AssetCheck: New page: Asset Save: BT_Enemy
+[2022.10.31-12.19.12:874][930]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPerson/AI/BT_Enemy.BT_Enemy
+[2022.10.31-12.22.54:459][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BTT_FindPatrolPoint" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset" SILENT=true
+[2022.10.31-12.22.54:465][310]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BTT_FindPatrolPoint
+[2022.10.31-12.22.54:466][310]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BTT_FindPatrolPointDEEF8AB04E7B44A2FA20EDA18ADBC2EC.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BTT_FindPatrolPoint.uasset'
+[2022.10.31-12.22.54:479][310]AssetCheck: New page: Asset Save: BTT_FindPatrolPoint
+[2022.10.31-12.22.54:479][310]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/BTT_FindPatrolPoint.BTT_FindPatrolPoint
+[2022.10.31-12.22.55:162][391]BlueprintLog: New page: Compile BTT_FindPatrolPoint
+[2022.10.31-12.22.55:212][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.31-12.23.04:256][423]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-12.23.04:257][423]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_145 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-12.23.04:257][423]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_147 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-12.23.04:257][423]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_141 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-12.23.04:257][423]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_143 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-12.23.25:644][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/BB_Enemy" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset" SILENT=true
+[2022.10.31-12.23.25:647][523]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/BB_Enemy
+[2022.10.31-12.23.25:647][523]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/BB_Enemy7A2D8CE04165FC8467A070BB84581467.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/BB_Enemy.uasset'
+[2022.10.31-12.23.25:657][523]AssetCheck: New page: Asset Save: BB_Enemy
+[2022.10.31-12.23.25:657][523]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPerson/AI/BB_Enemy.BB_Enemy
