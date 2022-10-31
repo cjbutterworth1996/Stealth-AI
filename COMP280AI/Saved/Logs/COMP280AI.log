@@ -1255,3 +1255,97 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.31-11.10.54:870][443]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_8CEC4B89C858274501_1476677891
 [2022.10.31-11.10.54:870][443]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_8CEC4B89C858274501_1641312893
 [2022.10.31-11.10.54:870][443]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_8CEC4B89C858274501_1500576892
+[2022.10.31-11.15.33:047][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.15.33:047][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.15.33:467][776]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.15.48:249][146]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.16.03:756][ 95]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-11.16.03:756][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-11.16.06:479][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.16.06:480][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.16.06:879][194]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.16.13:275][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Character.Enemy_Character
+[2022.10.31-11.16.13:276][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.16.42:458][104]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.16.56:126][626]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-11.16.56:126][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-11.16.56:171][626]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.16.56:172][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.18.27:906][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Enemy_Guard" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset" SILENT=true
+[2022.10.31-11.18.27:911][365]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Guard
+[2022.10.31-11.18.27:911][365]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Enemy_Guard50E6063E415611083EAA5498085B4289.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset'
+[2022.10.31-11.18.27:924][365]AssetCheck: New page: Asset Save: Enemy_Guard
+[2022.10.31-11.18.27:924][365]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.18.34:655][616]BlueprintLog: New page: Compile Enemy_Guard
+[2022.10.31-11.18.34:744][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.31-11.21.56:143][347]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.22.24:218][ 72]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.22.33:468][251]Cmd: DELETE
+[2022.10.31-11.22.33:468][251]Cmd: ACTOR DELETE
+[2022.10.31-11.22.33:485][251]LogEditorActor: Deleted Actor: Enemy_Character_C
+[2022.10.31-11.22.33:557][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.31-11.22.33:559][251]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2022.10.31-11.22.39:119][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.10.31-11.22.39:119][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.10.31-11.22.39:122][516]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_0
+[2022.10.31-11.22.39:124][516]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_0
+[2022.10.31-11.22.41:606][607]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.10.31-11.22.41:606][607]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.10.31-11.22.41:615][607]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-11.22.41:619][607]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-11.22.41:694][607]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.22.49:667][951]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.23.19:440][177]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-11.25.03:786][602]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.10.31-11.25.03:786][602]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.10.31-11.25.35:672][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.31-11.25.35:676][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto5
+[2022.10.31-11.25.35:676][918]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKI_Auto5798495804A1388576972CFB198E460C0.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI_Auto5.uasset'
+[2022.10.31-11.25.35:676][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2022.10.31-11.25.35:676][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.10.31-11.25.51:119][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.31-11.25.51:153][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.31-11.25.51:185][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.31-11.25.51:189][190]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI
+[2022.10.31-11.25.51:189][190]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKI6A256FFC437E499E87A8E0B75A6AF042.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI.uasset'
+[2022.10.31-11.25.51:215][190]AssetCheck: New page: Asset Save: Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-11.25.51:215][190]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.10.31-11.26.07:046][589]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-11.26.23:009][589]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.31-11.26.28:161][709]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.10.31-11.26.28:173][709]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.10.31-11.26.28:196][710]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2022.10.31-11.26.39:351][796]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2022.10.31-11.26.39:362][796]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.10.31-11.26.50:118][ 69]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Patrol_Path_End
+[2022.10.31-11.26.50:139][ 69]LogMetaData: Removing '/Game/ThirdPerson/AI/Patrol_Path_End.Patrol_Path_End' ref from Metadata '/Game/ThirdPerson/AI/NewUserDefinedEnum.PackageMetaData'
+[2022.10.31-11.26.50:212][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Patrol_Path_End" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Patrol_Path_End.uasset" SILENT=true
+[2022.10.31-11.26.50:213][ 69]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Patrol_Path_End
+[2022.10.31-11.26.50:213][ 69]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Patrol_Path_End26430A034E60E2AF532E7B822ECEC030.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Patrol_Path_End.uasset'
+[2022.10.31-11.26.50:268][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.31-11.26.50:302][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.31-11.26.50:335][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.31-11.26.50:341][ 69]AssetCheck: New page: Asset Save: Patrol_Path_End
+[2022.10.31-11.26.50:341][ 69]LogContentValidation: Display: Validating UserDefinedEnum /Game/ThirdPerson/AI/Patrol_Path_End.Patrol_Path_End
+[2022.10.31-11.27.09:044][267]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/ThirdPerson/AI/Patrol_Path_End.Patrol_Path_End
+[2022.10.31-11.28.04:194][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Patrol_Path_End" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Patrol_Path_End.uasset" SILENT=true
+[2022.10.31-11.28.04:195][274]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Patrol_Path_End
+[2022.10.31-11.28.04:195][274]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Patrol_Path_End9DD0A6B145DDF5A23FCFB2A4010B632A.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Patrol_Path_End.uasset'
+[2022.10.31-11.28.04:207][274]AssetCheck: New page: Asset Save: Patrol_Path_End
+[2022.10.31-11.28.04:207][274]LogContentValidation: Display: Validating UserDefinedEnum /Game/ThirdPerson/AI/Patrol_Path_End.Patrol_Path_End
+[2022.10.31-11.28.07:565][428]LogSlate: Window 'Patrol_Path_End' being destroyed
+[2022.10.31-11.28.27:097][872]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-11.28.27:097][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-11.28.27:942][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-11.28.27:942][963]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-11.28.27:942][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-11.28.48:347][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.28.48:348][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-11.29.26:187][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Enemy_Guard" FILE="../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset" SILENT=true
+[2022.10.31-11.29.26:191][162]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Guard
+[2022.10.31-11.29.26:191][162]LogSavePackage: Moving '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Saved/Enemy_GuardF7E4A4754E0053691E0D5C9FE4E702BC.tmp' to '../../../../../../Users/cb264195/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Guard.uasset'
+[2022.10.31-11.29.26:203][162]AssetCheck: New page: Asset Save: Enemy_Guard
+[2022.10.31-11.29.26:203][162]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard
+[2022.10.31-11.29.26:981][246]BlueprintLog: New page: Compile Enemy_Guard
+[2022.10.31-11.29.27:087][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.31-11.29.41:245][567]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
