@@ -1715,3 +1715,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.01-16.21.45:740][290]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.01-16.21.45:740][290]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_B42E9935ED32894501_1298502136
 [2022.11.01-16.21.45:740][290]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_B42E9935ED32894501_1524705139
+[2022.11.01-16.26.06:988][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/AI/Enemy_Controller.Enemy_Controller
+[2022.11.01-16.26.06:988][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.01-16.28.08:633][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Enemy_Controller" FILE="../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Controller.uasset" SILENT=true
+[2022.11.01-16.28.08:642][803]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Controller
+[2022.11.01-16.28.08:642][803]LogSavePackage: Moving '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Enemy_Controller65AFBFCB495DF967D9B6158C0112793C.tmp' to '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Controller.uasset'
+[2022.11.01-16.28.08:654][803]AssetCheck: New page: Asset Save: Enemy_Controller
+[2022.11.01-16.28.08:654][803]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Controller.Enemy_Controller
+[2022.11.01-16.29.06:194][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/AI/Enemy_Controller" FILE="../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Controller.uasset" SILENT=true
+[2022.11.01-16.29.06:202][875]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_Controller
+[2022.11.01-16.29.06:203][875]LogSavePackage: Moving '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Enemy_ControllerB01AF2884C568BC1E3CBC1A29DD55C4B.tmp' to '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/AI/Enemy_Controller.uasset'
+[2022.11.01-16.29.06:214][875]AssetCheck: New page: Asset Save: Enemy_Controller
+[2022.11.01-16.29.06:214][875]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/AI/Enemy_Controller.Enemy_Controller
+[2022.11.01-16.29.07:010][967]BlueprintLog: New page: Compile Enemy_Controller
+[2022.11.01-16.29.07:056][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
