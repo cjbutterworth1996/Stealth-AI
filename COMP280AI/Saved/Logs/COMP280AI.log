@@ -1698,3 +1698,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.01-16.20.22:379][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2022.11.01-16.20.22:385][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2022.11.01-16.20.22:436][384]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.11.01-16.21.12:175][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.11.01-16.21.12:175][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.11.01-16.21.12:176][216]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_2
+[2022.11.01-16.21.12:177][216]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_2
+[2022.11.01-16.21.13:350][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.11.01-16.21.13:350][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.11.01-16.21.13:352][322]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_B42E9935ED32894501_1524705139
+[2022.11.01-16.21.13:353][322]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_B42E9935ED32894501_1524705139
+[2022.11.01-16.21.33:240][435]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.01-16.21.33:315][436]LogViewport: Scene viewport resized to 966x407, mode Windowed.
+[2022.11.01-16.21.45:727][290]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ER/JTXZB2EJQHZUOR62DYLWS2
+[2022.11.01-16.21.45:728][290]LogSavePackage: Moving '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/JTXZB2EJQHZUOR62DYLWS2F3A9110849EF4AC8A627388957E3D7FA.tmp' to '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ER/JTXZB2EJQHZUOR62DYLWS2.uasset'
+[2022.11.01-16.21.45:730][290]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/29/NFYPB2AULMUARNU3CJKKVZ
+[2022.11.01-16.21.45:730][290]LogSavePackage: Moving '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/NFYPB2AULMUARNU3CJKKVZC69CA6064A7D0CA8E33C4AAA70D41C8D.tmp' to '../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/29/NFYPB2AULMUARNU3CJKKVZ.uasset'
+[2022.11.01-16.21.45:740][290]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.01-16.21.45:740][290]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_B42E9935ED32894501_1298502136
+[2022.11.01-16.21.45:740][290]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_B42E9935ED32894501_1524705139
