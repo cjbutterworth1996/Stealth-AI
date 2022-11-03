@@ -21,6 +21,8 @@ All of these issues were found by the developer playtesting the game with heuris
 
 # Heuristic 1 - Visibility of system status #
 
+Heuristic: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
+
 Analysis: There is no UI whatsoever, which is quite an issue for determining system status. The only indication the user has to when a guard has spotted them is that the guard faces their direction and starts moving towards them. Possible solutions to this include a symbol above the AI's heads to determine what state they're in, audio cues to alert the player that they've been seen, and UI cues such as the screen turning red to alert the player that they've been seen. Also, there is no win/loss state or objective to follow, so the player will be confused about what to do. To fix this, an objective should be added, UI should be added to show the player what the object is, such as a minimap or an arrow pointing to the objective, or even just a message telling the player what to do. A win state to finish the level and a loss state to restart the level also need to be implemented in order to let the player know they have either succeeded or failed in completing the main objective.
 
 Playtester's experience: 
@@ -29,6 +31,8 @@ Solution:
 
 # Heuristic 2 - Match between system and the real world #
 
+Heuristic: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order
+
 Analysis: No words, phrases, or concepts should feel alien to anyone who is familiar with stealth games. When the tutorial slides are added, they will include easily recognizable terms like alert, searching, key, door, objective, crouch, etc. that anyone with a basic understanding of the English language and/or familiarity with stealth games should be able to easily understand.
 
 Playtester's experience:
@@ -36,6 +40,8 @@ Playtester's experience:
 Solution:
 
 # Heuristic 3 - User control and freedom #
+
+Heuristic: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.
 
 Analysis: There is currently no way to exit the game or reset the level. A pause function and option to reset the level or exit the level/game needs to be added to allow the user freedom to easily try again or quit the game.
 
