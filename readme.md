@@ -50,3 +50,37 @@ Playtester's experience:
 Solution:
 
 # Heuristic 4 - Consistency and standards #
+
+Heuristic: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
+
+Analysis: There should be no confusion about terminology in the game. The words that will be used in the tutorial slides will be easily recognizable and mean the same thing that they generally mean in real life and in other video games.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 5 - Error prevention #
+
+Heuristic: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
+
+Analysis: There is no possibility for error because there is currently no objective and no feasible way to escape the game environment. Once an objective is added, the player will only be able to exit the game environment if they complete the objective or quit the game.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 6 - Recognition rather than recall #
+
+Heuristic: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.
+
+Analysis: There is currently no objective for the user to keep in mind. The user can crouch or prone, but the game does not tell them this. A possible solution is to have the options and the keybindings show in the on-screen UI to remind them they can do these things. Also, when an objective is added, some part of the UI should be easily visible that reminds them what they are supposed to be doing. Additionally, as with the movement controls, a UI element should let the player know they have the option to pause the game and open the pause menu.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 7 - Flexibility and efficiency of use #
+
+Heuristic: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+
+Analysis:
