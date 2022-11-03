@@ -14,3 +14,33 @@ The fourth state is the suspicious state. They will search in a very large radiu
 The fifth state is the giving up state. They will exit the suspicious state and move back to their patrol route and re-enter the first state.
 
 On top of the behaviour tree for the AI, I have given them walking animations. Likewise, the player also has walking animations. As the player, you can crouch by pressing shift or prone by holding shift. I couldn't find any free assets for the prone animation, but there are crouching animations.
+
+## Documentation for Worksheet 2 ##
+
+All of these issues were found by the developer playtesting the game with heuristics in mind as well as having another person playtesting the game and asking them questions about it while they were playing it. These heuristics were taken from Jakob Nielsen's 10 general principles for interaction design. They can be found here: https://www.nngroup.com/articles/ten-usability-heuristics/
+
+# Heuristic 1 - Visibility of system status #
+
+Analysis: There is no UI whatsoever, which is quite an issue for determining system status. The only indication the user has to when a guard has spotted them is that the guard faces their direction and starts moving towards them. Possible solutions to this include a symbol above the AI's heads to determine what state they're in, audio cues to alert the player that they've been seen, and UI cues such as the screen turning red to alert the player that they've been seen. Also, there is no win/loss state or objective to follow, so the player will be confused about what to do. To fix this, an objective should be added, UI should be added to show the player what the object is, such as a minimap or an arrow pointing to the objective, or even just a message telling the player what to do. A win state to finish the level and a loss state to restart the level also need to be implemented in order to let the player know they have either succeeded or failed in completing the main objective.
+
+Playtester's experience: 
+
+Solution:
+
+# Heuristic 2 - Match between system and the real world #
+
+Analysis: No words, phrases, or concepts should feel alien to anyone who is familiar with stealth games. When the tutorial slides are added, they will include easily recognizable terms like alert, searching, key, door, objective, crouch, etc. that anyone with a basic understanding of the English language and/or familiarity with stealth games should be able to easily understand.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 3 - User control and freedom #
+
+Analysis: There is currently no way to exit the game or reset the level. A pause function and option to reset the level or exit the level/game needs to be added to allow the user freedom to easily try again or quit the game.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 4 - Consistency and standards #
