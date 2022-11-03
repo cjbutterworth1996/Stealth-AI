@@ -17,7 +17,7 @@ On top of the behaviour tree for the AI, I have given them walking animations. L
 
 ## Documentation for Worksheet 2 ##
 
-All of these issues were found by the developer playtesting the game with heuristics in mind as well as having another person playtesting the game and asking them questions about it while they were playing it. These heuristics were taken from Jakob Nielsen's 10 general principles for interaction design. They can be found here: https://www.nngroup.com/articles/ten-usability-heuristics/
+All of these issues were found by the developer playtesting the game with heuristics in mind. After implementing solutions and improvements to the game, I had another person playtest the game and asked them questions about it while they were playing it. I then adjusted the game once again to fix/improve upon any of the issues they mentioned. These heuristics were taken from Jakob Nielsen's 10 general principles for interaction design. They can be found here: https://www.nngroup.com/articles/ten-usability-heuristics/
 
 # Heuristic 1 - Visibility of system status #
 
@@ -83,4 +83,38 @@ Solution:
 
 Heuristic: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
-Analysis:
+Analysis: Right now, there is no customizability withing the game. While the game is a short tech demo with hardly any variability, there is still room for improvement in this aspect. A difficulty mode could be added that adds more guards/obstacles to sneak past, options could be added to skip the tutorial, and options could also be added to hide the UI.
+
+Playtester's experience:
+
+Solution:
+
+# Heurisitic 8 - Aesthetic and minimalist design #
+
+Heuristic: Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
+
+Analysis: There is no UI whatsoever, so technically, this heuristic is being met to a very satisfying degree. This heuristic will need to be re-analyzed via playtesting once the UI is implemented.
+
+Playtester's experience:
+
+Solution:
+
+# Heuristic 9 - Help users recognize, diagnose, and recover from errors #
+
+Heuristic: Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
+
+Analysis: There are no errors that require messages in the game currently. Once an objective is added, a message should pop up if the player tries to complete the objective in an incorrect manner.
+
+Playtester's analysis:
+
+Solution:
+
+# Heuristic 10 - Help and documentation #
+
+Heuristic: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
+
+Analysis: There are no tasks for the user to complete, so there is no need for additional explanation other than to perhaps let the user know that there is nothing they actually have to do. Once an objective is placed in the game, a series of tutorial slides will optionally pop up informing the user the game's controls, objectives, and win/loss states. Also, if a difficulty system is added, the user should be informed why a certain difficulty setting is harder/easier than the others.
+
+Playtester's experience:
+
+Solution:
