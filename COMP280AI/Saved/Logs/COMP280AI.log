@@ -5996,3 +5996,200 @@ Script Stack (0 frames):
 [2022.12.13-13.00.42:115][793]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C5499C5201_1091414207
 [2022.12.13-13.00.42:115][793]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
 [2022.12.13-13.29.48:989][328]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.176 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.13-13.59.20:223][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.13-13.59.20:223][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.13-13.59.20:224][248]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7C214AF4C549A45201_1407758616
+[2022.12.13-13.59.20:235][248]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7C214AF4C549A45201_1407758616
+[2022.12.13-13.59.20:293][249]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:099][576]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:233][584]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:316][589]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:399][594]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:433][596]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:582][605]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:667][610]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.26:982][629]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.27:066][634]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.27:199][642]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.27:349][651]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.27:483][659]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.27:633][668]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.28:149][699]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.28:182][701]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.28:234][704]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.28:299][708]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.28:966][748]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.29:066][754]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.29:183][761]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.29:665][790]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.30:262][823]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.31:596][903]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.31:763][913]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.31:947][924]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.32:145][936]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.32:831][977]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.33:532][ 17]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.35:298][123]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.35:381][128]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.35:647][144]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.35:798][153]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.36:081][170]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.36:547][198]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.37:105][229]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.45:002][696]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.45:485][725]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.45:619][733]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.45:735][740]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.45:853][747]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.46:368][778]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.47:836][866]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.48:371][896]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.52:849][163]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.53:048][175]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.53:148][181]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.53:865][222]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.56:991][408]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.57:191][420]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.57:524][440]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.57:675][449]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.58:458][496]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-13.59.58:928][522]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.02:642][741]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.03:043][765]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.03:411][787]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.03:725][806]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.05:263][896]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_77 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_79 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_101 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_103 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.38:071][806]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_Enemy_Guard_C_155 has parent /Game/ThirdPerson/AI/Enemy_Character.SKEL_Enemy_Character_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.00.53:484][806]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.12.13-14.00.53:537][806]LogActorComponent: UnregisterComponent: (/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.Default__BP_ExitDoor_C:StaticMeshComponent0) Not registered. Aborting.
+[2022.12.13-14.00.53:582][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.13-14.00.53:599][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.00.53:599][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-14.00.53:926][806]LogViewport: Scene viewport resized to 2282x1368, mode Windowed.
+[2022.12.13-14.00.53:953][806]LogAutomationController: Ignoring very large delta of 15.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.12.13-14.00.53:954][807]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.00.57:065][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.13-14.00.57:069][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto5
+[2022.12.13-14.00.57:069][984]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YVLUNOYUM6G68F56GBR77U_Auto555D1A287404CBFAE41A2468EF1AE8AE3.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto5.uasset'
+[2022.12.13-14.00.57:069][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2022.12.13-14.00.57:069][984]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.12.13-14.01.10:967][793]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.01.45:462][843]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.02.01:219][761]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.02.11:434][354]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.02.31:672][541]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.03.06:115][590]LogSavePackage: Moving output files for package: /Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor
+[2022.12.13-14.03.06:115][590]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorA4E7C59E4E38AF9E6DC49896420F3684.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.uasset'
+[2022.12.13-14.03.06:132][590]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-14.03.06:132][590]LogContentValidation: Display: Validating Blueprint /Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.10.57:560][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.13-14.10.57:563][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto6
+[2022.12.13-14.10.57:563][639]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YVLUNOYUM6G68F56GBR77U_Auto6E99E2A44427B9C72EED55C8CB2AC5E85.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto6.uasset'
+[2022.12.13-14.10.57:564][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.080
+[2022.12.13-14.10.57:564][639]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.BP_ExitDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.SKEL_BP_ExitDoor_C' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.BP_ExitDoor_C' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.BP_ExitDoor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.BP_ExitDoor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.BP_ExitDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.SKEL_BP_ExitDoor_C:ReceiveBeginPlay' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.SKEL_BP_ExitDoor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.SKEL_BP_ExitDoor_C:ReceiveTick' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:475][903]LogMetaData: Removing '/Game/Level/BP_ExitDoor.SKEL_BP_ExitDoor_C:UserConstructionScript' ref from Metadata '/Game/HumanVocalizations/HumanMaleB/Wavs/BP_ExitDoor.PackageMetaData'
+[2022.12.13-14.20.48:565][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BP_ExitDoor" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset" SILENT=true
+[2022.12.13-14.20.48:568][903]LogSavePackage: Moving output files for package: /Game/Level/BP_ExitDoor
+[2022.12.13-14.20.48:568][903]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorA53FA0354532834D593DC3AEC2D3291B.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset'
+[2022.12.13-14.20.48:646][903]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7C214AF4C549A45201_1407758616 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/D6/B33IAKLGYHKZXCH973SSZP.PackageMetaData in its package
+[2022.12.13-14.20.48:670][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.13-14.20.48:721][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.13-14.20.48:768][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.13-14.20.48:804][903]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-14.20.48:804][903]LogContentValidation: Display: Validating Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.20.48:871][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.13-14.21.06:316][929]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.21.41:060][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BP_ExitDoor" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset" SILENT=true
+[2022.12.13-14.21.41:063][970]LogSavePackage: Moving output files for package: /Game/Level/BP_ExitDoor
+[2022.12.13-14.21.41:063][970]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorB9212D3E4FAD4847E9104DB5761378D2.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset'
+[2022.12.13-14.21.41:079][970]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-14.21.41:079][970]LogContentValidation: Display: Validating Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.21.41:980][ 24]BlueprintLog: New page: Compile BP_ExitDoor
+[2022.12.13-14.21.42:065][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.13-14.21.42:160][ 25]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.24.02:520][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.12.13-14.24.02:525][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto7
+[2022.12.13-14.24.02:525][ 46]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YVLUNOYUM6G68F56GBR77U_Auto7960AE00F4F2EFF5330C990B1F25B6550.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto7.uasset'
+[2022.12.13-14.24.02:526][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.056
+[2022.12.13-14.24.02:526][ 46]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.12.13-14.26.34:477][846]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.26.40:455][198]BlueprintLog: New page: Compile BP_ExitDoor
+[2022.12.13-14.26.40:456][198]LogBlueprint: Error: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\Level\BP_ExitDoor.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.12.13-14.26.40:533][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.12.13-14.26.40:598][199]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-14.26.52:675][869]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.27.07:466][869]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.13-14.27.07:475][869]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.13-14.27.07:480][869]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.13-14.27.07:484][869]LogAutomationController: Ignoring very large delta of 14.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.12.13-14.27.07:491][870]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.13-14.27.21:340][699]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_WinScreen
+[2022.12.13-14.27.21:345][699]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.13-14.27.24:454][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-14.27.24:456][880]LogSavePackage: Moving output files for package: /Game/Level/UI_WinScreen
+[2022.12.13-14.27.24:456][880]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreen9CDF8AAD41055F33AF6E0CB8B7265FE2.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset'
+[2022.12.13-14.27.24:474][880]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-14.27.24:474][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.27.25:896][966]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.27.25:897][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-14.27.25:908][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-14.27.26:148][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-14.27.26:148][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-14.27.39:611][764]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.13-14.27.39:683][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.12.13-14.28.03:187][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-14.28.03:190][143]LogSavePackage: Moving output files for package: /Game/Level/UI_WinScreen
+[2022.12.13-14.28.03:190][143]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreen7CE30E0B4652FF57F4108EA342A21A26.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset'
+[2022.12.13-14.28.03:204][143]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-14.28.03:204][143]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.28.05:009][252]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.13-14.28.05:078][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.13-14.28.16:896][947]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.13-14.29.48:762][369]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.279 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.13-14.30.49:028][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-14.30.49:030][958]LogSavePackage: Moving output files for package: /Game/Level/UI_WinScreen
+[2022.12.13-14.30.49:030][958]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreenE8283D614C2DFEAF8F16B0870F47729E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset'
+[2022.12.13-14.30.49:047][958]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-14.30.49:047][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.30.49:770][  2]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.13-14.30.49:846][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.13-14.31.26:870][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-14.31.26:873][161]LogSavePackage: Moving output files for package: /Game/Level/UI_WinScreen
+[2022.12.13-14.31.26:873][161]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreenA4DFB6EE48870785A2DBF6A47E509F23.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset'
+[2022.12.13-14.31.26:887][161]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-14.31.26:887][161]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.31.35:390][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-14.31.35:392][661]LogSavePackage: Moving output files for package: /Game/Level/UI_WinScreen
+[2022.12.13-14.31.35:393][661]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreen2E9E78244B5174E8DF4FA79A0784509A.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/UI_WinScreen.uasset'
+[2022.12.13-14.31.35:409][661]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-14.31.35:409][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/UI_WinScreen.UI_WinScreen
+[2022.12.13-14.31.36:262][710]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.13-14.31.36:337][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.13-14.31.48:419][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BP_ExitDoor" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset" SILENT=true
+[2022.12.13-14.31.48:421][420]LogSavePackage: Moving output files for package: /Game/Level/BP_ExitDoor
+[2022.12.13-14.31.48:422][420]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorAB8D98804AD7F19F4DDECF8668F1A338.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset'
+[2022.12.13-14.31.48:435][420]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-14.31.48:435][420]LogContentValidation: Display: Validating Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.31.50:558][544]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-14.31.53:638][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BP_ExitDoor" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset" SILENT=true
+[2022.12.13-14.31.53:641][721]LogSavePackage: Moving output files for package: /Game/Level/BP_ExitDoor
+[2022.12.13-14.31.53:641][721]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorBB75EF6745993DCA962942B940BE03A9.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset'
+[2022.12.13-14.31.53:654][721]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-14.31.53:654][721]LogContentValidation: Display: Validating Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-14.31.55:242][817]BlueprintLog: New page: Compile BP_ExitDoor
+[2022.12.13-14.31.55:330][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.12.13-14.31.55:438][818]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
