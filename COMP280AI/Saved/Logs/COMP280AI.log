@@ -801,3 +801,256 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.13-20.51.05:964][708]AssetCheck: New page: Asset Save: BP_ExitDoor_C_UAID_7C214AF4C549A45201_1501121617
 [2022.12.13-20.51.05:964][708]LogContentValidation: Display: Validating BP_ExitDoor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExitDoor_C_UAID_7C214AF4C549A45201_1501121617
 [2022.12.13-20.51.06:849][761]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.305 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.13-20.51.57:408][138]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.13-20.51.57:408][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.51.57:415][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.51.57:421][138]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.13-20.51.57:731][138]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.51.57:731][138]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.51.57:786][138]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.13-20.52.01:233][329]LogSlate: Window 'UI_WinScreen' being destroyed
+[2022.12.13-20.52.01:242][329]LogSlate: Window 'UI_WinScreen' being destroyed
+[2022.12.13-20.52.01:247][329]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-20.52.01:247][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.52.01:257][329]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-20.52.01:257][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.52.24:478][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BP_ExitDoor" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset" SILENT=true
+[2022.12.13-20.52.24:482][626]LogSavePackage: Moving output files for package: /Game/Level/BP_ExitDoor
+[2022.12.13-20.52.24:482][626]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ExitDoorEF5CF2C74506920BC786338A346B5B8C.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/Level/BP_ExitDoor.uasset'
+[2022.12.13-20.52.24:498][626]AssetCheck: New page: Asset Save: BP_ExitDoor
+[2022.12.13-20.52.24:498][626]LogContentValidation: Display: Validating Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.13-20.52.25:370][679]BlueprintLog: New page: Compile BP_ExitDoor
+[2022.12.13-20.52.25:470][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.13-20.52.25:496][680]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-20.52.42:249][672]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.13-20.52.42:249][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.52.42:257][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.52.42:543][672]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.52.42:543][672]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.53.04:045][923]LogSlate: Window 'UI_WinScreen' being destroyed
+[2022.12.13-20.53.15:820][617]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.13-20.53.15:910][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.13-20.53.15:950][618]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.13-20.53.17:366][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset" SILENT=true
+[2022.12.13-20.53.17:370][699]LogSavePackage: Moving output files for package: /Game/UI/UI_WinScreen
+[2022.12.13-20.53.17:370][699]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreen8BC9F6B546AF2B5F986BCF9A82E23221.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset'
+[2022.12.13-20.53.17:382][699]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.13-20.53.17:383][699]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.13-20.53.31:376][506]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-20.53.37:085][506]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.13-20.53.49:664][751]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.13-20.53.49:676][751]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.13-20.53.49:681][751]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.13-20.53.49:703][752]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.13-20.53.51:428][851]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.12.13-20.53.51:433][851]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.13-20.53.53:116][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.13-20.53.54:102][946]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.13-20.53.54:145][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.12.13-20.53.58:005][139]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-20.54.03:301][139]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.13-20.54.03:313][139]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.13-20.54.03:321][139]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.13-20.54.03:335][140]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.13-20.54.10:301][545]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_MainMenu
+[2022.12.13-20.54.10:305][545]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.13-20.54.12:737][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-20.54.12:740][685]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-20.54.12:740][685]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenuB4581EC946C8F7D8CA77C79EA0FCD2B7.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-20.54.12:760][685]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-20.54.12:760][685]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.54.17:084][943]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.54.17:084][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.54.17:092][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-20.54.17:316][943]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.54.17:316][943]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.54.57:081][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-20.54.57:084][307]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-20.54.57:084][307]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenuD559C34E4896F1507CBB5E95FC4271F4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-20.54.57:098][307]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-20.54.57:098][307]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.54.57:646][339]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-20.54.57:707][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.13-20.55.12:095][194]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.13-20.55.59:618][ 29]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18029
+[2022.12.13-20.55.59:619][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.55.59:630][ 30]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-20.55.59:631][ 30]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-20.55.59:632][ 30]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-20.55.59:633][ 30]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-20.55.59:635][ 30]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-20.55.59:670][ 32]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3
+[2022.12.13-20.55.59:671][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.55.59:683][ 33]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-20.55.59:684][ 33]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-20.55.59:685][ 33]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-20.55.59:686][ 33]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-20.55.59:688][ 33]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-20.55.59:706][ 34]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2
+[2022.12.13-20.55.59:706][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.55.59:716][ 35]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-20.55.59:717][ 35]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-20.55.59:718][ 35]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-20.55.59:719][ 35]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-20.55.59:722][ 35]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-20.55.59:806][ 40]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 6
+[2022.12.13-20.55.59:807][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.55.59:819][ 41]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-20.55.59:820][ 41]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-20.55.59:822][ 41]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-20.55.59:823][ 41]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-20.55.59:824][ 41]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-20.56.00:005][ 52]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 12
+[2022.12.13-20.56.00:005][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-20.56.00:022][ 53]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-20.56.00:023][ 53]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-20.56.00:025][ 53]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-20.56.00:026][ 53]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.13-20.56.00:027][ 53]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-20.56.40:213][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-20.56.40:216][452]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-20.56.40:217][452]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu2C44806A4DAB85D4240C5A9E43B40498.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-20.56.40:233][452]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-20.56.40:234][452]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.56.41:371][521]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-20.56.41:427][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.13-20.57.09:546][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-20.57.09:549][158]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-20.57.09:550][158]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenuC0F501504B7054C7A1AB9BBB7D6ADAAD.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-20.57.09:561][158]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-20.57.09:562][158]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.57.10:285][202]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-20.57.10:343][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.13-20.57.22:808][930]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.57.22:808][930]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-20.58.49:753][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-20.58.49:756][ 75]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-20.58.49:756][ 75]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu2A4558CE4C393DD7410094AB19D10196.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-20.58.49:770][ 75]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-20.58.49:770][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-20.58.50:499][118]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-20.58.50:557][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.13-21.00.17:490][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-21.00.17:493][209]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-21.00.17:494][209]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu9D4035A6405069B7FF759FA36A9DFD7D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-21.00.17:509][209]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-21.00.17:509][209]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-21.00.18:117][246]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-21.00.18:179][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.13-21.01.57:565][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-21.01.57:568][167]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-21.01.57:569][167]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu017EB43242D48CB24BCF859286AC99A6.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-21.01.57:582][167]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-21.01.57:582][167]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-21.01.58:303][211]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-21.01.58:361][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.13-21.03.13:030][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.13-21.03.13:033][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto1
+[2022.12.13-21.03.13:033][375]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YVLUNOYUM6G68F56GBR77U_Auto175CCF6F24BBC93307058DDB172CD5EE9.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9C/YVLUNOYUM6G68F56GBR77U_Auto1.uasset'
+[2022.12.13-21.03.13:034][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2022.12.13-21.03.13:034][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.12.13-21.03.13:034][375]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_MainMenu] ([2] browsable assets)...
+[2022.12.13-21.03.13:037][375]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu]
+[2022.12.13-21.03.13:037][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_MainMenu]
+[2022.12.13-21.03.13:037][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.13-21.03.13:042][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_MainMenu_Auto1
+[2022.12.13-21.03.13:042][375]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu_Auto1708B59E345F3F591D629AAB1BB6A245E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_MainMenu_Auto1.uasset'
+[2022.12.13-21.03.13:042][375]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.12.13-21.03.23:935][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.13-21.03.23:939][ 18]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2022.12.13-21.03.23:939][ 18]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu6775487E43761BCC0E086E904074F750.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
+[2022.12.13-21.03.23:952][ 18]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.13-21.03.23:952][ 18]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.13-21.03.25:066][ 81]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.13-21.03.25:125][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.12.13-21.03.31:286][445]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-21.03.31:286][445]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.13-21.04.04:182][839]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 44839
+[2022.12.13-21.04.04:182][839]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.12.13-21.04.13:710][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.12.13-21.04.13:710][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-21.04.23:273][939]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-21.04.23:273][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-21.04.23:307][939]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.12.13-21.04.23:308][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-21.04.26:248][100]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.13-21.04.29:328][280]LogViewport: Scene viewport resized to 2282x1371, mode Windowed.
+[2022.12.13-21.05.54:112][197]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.13-21.06.07:632][968]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2022.12.13-21.06.07:633][968]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/BP_ThirdPersonGameModeCA24A9424B7D22F4E6D543B2861328A4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2022.12.13-21.06.07:649][968]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2022.12.13-21.06.07:649][968]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.12.13-21.06.08:378][ 12]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2022.12.13-21.06.08:444][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.13-21.06.09:962][ 98]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.13-21.06.09:968][ 98]LogWorldPartition: Display: GetPartitionedActors took 36 us
+[2022.12.13-21.06.09:969][ 98]LogWorldPartition: Display: GenerateStreaming took 280 us
+[2022.12.13-21.06.09:969][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.13-21.06.09:969][ 98]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2022, 11:06:09)
+[2022.12.13-21.06.09:969][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.13-21.06.09:976][ 98]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.13-21.06.09:976][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006123s)
+[2022.12.13-21.06.09:976][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006166s)
+[2022.12.13-21.06.09:976][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.13-21.06.09:976][ 98]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.13-21.06.09:977][ 98]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.13-21.06.09:977][ 98]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.13-21.06.09:978][ 98]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.13-21.06.09:978][ 98]LogPlayLevel: PIE: World Init took: (0.002164s)
+[2022.12.13-21.06.10:018][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.12.13-21.06.10:021][ 98]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.13-21.06.10:021][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.13-21.06.10:021][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.13-21.06.10:021][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.13-21.06.10:021][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.13-21.06.10:021][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.13-21.06.10:024][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.13-21.06.10:042][ 98]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.13-21.06.10:042][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.13-21.06.10:042][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.13-21.06.10:042][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.13-21.06.10:043][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.13-21.06.10:043][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.13-21.06.10:045][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.13-21.06.10:045][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.13-21.06.10:045][ 98]LogInit: FAudioDevice initialized.
+[2022.12.13-21.06.10:045][ 98]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.12.13-21.06.10:053][ 98]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.13-21.06.10:057][ 98]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.13-16.06.10
+[2022.12.13-21.06.10:057][ 98]LogWorld: Bringing up level for play took: 0.003814
+[2022.12.13-21.06.10:059][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.12.13-21.06.10:060][ 98]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.13-21.06.10:060][ 98]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.13-21.06.10:062][ 98]PIE: Server logged in
+[2022.12.13-21.06.10:062][ 98]PIE: Play in editor total start time 0.095 seconds.
+[2022.12.13-21.06.10:092][ 98]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 34046
+[2022.12.13-21.06.10:094][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-21.06.10:159][ 99]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-21.06.10:160][ 99]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.13-21.06.10:161][ 99]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.13-21.06.10:162][ 99]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.13-21.06.11:441][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-21.06.11:441][176]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.13-21.06.11:442][176]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-21.06.11:442][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-21.06.11:453][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.13-21.06.11:457][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-21.06.11:498][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-21.06.11:499][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.13-21.06.11:500][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.13-21.06.11:504][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-21.06.11:506][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.13-21.06.11:579][177]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.13-21.06.13:521][284]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.13-21.06.17:896][545]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
