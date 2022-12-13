@@ -5995,3 +5995,4 @@ Script Stack (0 frames):
 [2022.12.13-13.00.42:115][793]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.13-13.00.42:115][793]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C5499C5201_1091414207
 [2022.12.13-13.00.42:115][793]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.12.13-13.29.48:989][328]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.176 and deleted 0 file(s) with total size 0 MiB.

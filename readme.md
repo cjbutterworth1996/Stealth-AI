@@ -33,6 +33,8 @@ Alert symbol: <a href="https://www.flaticon.com/free-icons/alert" title="alert i
 
 Hidden symbol: <a href="https://www.flaticon.com/free-icons/user-interface" title="user interface icons">User interface icons created by Febrian Hidayat - Flaticon</a>
 
+Sound effect: <a href ="https://www.unrealengine.com/marketplace/en-US/product/human-vocalizations" title="battle cry sound effect">Battle cry sound effect created by Gamemaster Audio</a>
+
 
 # Heuristic 2 - Match between system and the real world #
 
