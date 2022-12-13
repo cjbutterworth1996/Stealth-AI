@@ -31,8 +31,6 @@ Solution:
 
 Alert symbol: <a href="https://www.flaticon.com/free-icons/alert" title="alert icons">Alert icons created by Freepik - Flaticon</a>
 
-Suspicious symbol: <a href="https://www.flaticon.com/free-icons/caution" title="caution icons">Caution icons created by Good Ware - Flaticon</a>
-
 Hidden symbol: <a href="https://www.flaticon.com/free-icons/user-interface" title="user interface icons">User interface icons created by Febrian Hidayat - Flaticon</a>
 
 
