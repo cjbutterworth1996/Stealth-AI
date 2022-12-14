@@ -4472,3 +4472,173 @@ Make sure 'UI_TutorialSlide2_C' has been compiled for  Set TutorialWidget3
 [2022.12.14-16.49.18:510][ 51]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_MainMenu76EDEF0C4B3B90A45217388E430939EB.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_MainMenu.uasset'
 [2022.12.14-16.49.18:522][ 51]AssetCheck: New page: Asset Save: UI_MainMenu
 [2022.12.14-16.49.18:522][ 51]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.14-16.50.49:266][763]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-16.51.10:075][968]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.14-16.51.13:646][968]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.14-16.51.13:660][968]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.14-16.51.13:666][968]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.14-16.51.13:680][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.14-16.51.23:059][532]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_DifficultySelection
+[2022.12.14-16.51.23:063][532]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.14-16.51.26:335][721]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-16.51.26:336][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-16.51.26:347][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-16.51.26:569][721]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.51.26:569][721]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.52.04:457][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-16.52.04:459][962]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-16.52.04:459][962]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelectionBBD03FF04F8DEF3B8EE5DCAC8A6819DB.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-16.52.04:474][962]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-16.52.04:474][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-16.52.08:097][174]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.52.08:097][174]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.52.17:595][719]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-16.52.23:632][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-16.52.24:710][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-16.52.24:712][131]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-16.52.24:713][131]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection7CF4BA7343DA8651C152108A6ADEA00D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-16.52.24:724][131]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-16.52.24:724][131]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-16.52.25:700][190]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-16.52.25:776][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.12.14-16.52.42:458][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.52.42:458][164]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-16.52.53:279][804]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 14615
+[2022.12.14-16.52.53:282][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-16.52.53:294][805]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.14-16.52.53:295][805]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.14-16.52.53:296][805]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.14-16.52.53:297][805]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-16.52.53:299][805]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.14-16.52.53:305][805]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.12.14-16.55.41:504][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.12.14-16.55.41:507][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.051
+[2022.12.14-16.55.41:507][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_DifficultySelection] ([2] browsable assets)...
+[2022.12.14-16.55.41:511][707]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection]
+[2022.12.14-16.55.41:511][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_DifficultySelection]
+[2022.12.14-16.55.41:514][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_DifficultySelection_Auto8
+[2022.12.14-16.55.41:514][707]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection_Auto8BDC6C98D41742D1DB2ECC4A4B8A0F15A.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_DifficultySelection_Auto8.uasset'
+[2022.12.14-16.55.41:515][707]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.12.14-17.03.52:831][161]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-17.05.41:778][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.14-17.05.41:781][628]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.060
+[2022.12.14-17.05.41:781][628]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_DifficultySelection] ([2] browsable assets)...
+[2022.12.14-17.05.41:784][628]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection]
+[2022.12.14-17.05.41:784][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_DifficultySelection]
+[2022.12.14-17.05.41:786][628]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_DifficultySelection_Auto9
+[2022.12.14-17.05.41:787][628]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection_Auto936C85E7B476CAA3E23D80FAF618EE5DD.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_DifficultySelection_Auto9.uasset'
+[2022.12.14-17.05.41:787][628]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.12.14-17.14.00:827][563]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-17.14.00:906][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.12.14-17.16.26:645][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.14-17.16.26:647][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.048
+[2022.12.14-17.16.26:647][205]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_DifficultySelection] ([2] browsable assets)...
+[2022.12.14-17.16.26:650][205]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection]
+[2022.12.14-17.16.26:650][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_DifficultySelection]
+[2022.12.14-17.16.26:653][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_DifficultySelection_Auto0
+[2022.12.14-17.16.26:653][205]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection_Auto02E9F5E5E46C53782E491038412427935.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_DifficultySelection_Auto0.uasset'
+[2022.12.14-17.16.26:655][205]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.12.14-17.17.45:696][902]LogEditorTransaction: Undo Edit Left
+[2022.12.14-17.18.25:151][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-17.18.25:155][202]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-17.18.25:155][202]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection8DEA8DCF49AFA88E44302587F392B503.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-17.18.25:169][202]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-17.18.25:170][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-17.18.26:212][265]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-17.18.26:278][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.14-17.19.46:857][825]LogEditorTransaction: Undo Edit Left
+[2022.12.14-17.20.11:138][259]LogEditorTransaction: Undo Edit Left
+[2022.12.14-17.25.01:751][243]LogEditorTransaction: Undo Edit Left
+[2022.12.14-17.26.55:290][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.14-17.26.55:292][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.061
+[2022.12.14-17.26.55:293][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_DifficultySelection] ([2] browsable assets)...
+[2022.12.14-17.26.55:296][983]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection]
+[2022.12.14-17.26.55:296][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_DifficultySelection]
+[2022.12.14-17.26.55:298][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_DifficultySelection_Auto1
+[2022.12.14-17.26.55:299][983]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection_Auto1D1DDEDF14BFFA04BA2F40DA91A373A54.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_DifficultySelection_Auto1.uasset'
+[2022.12.14-17.26.55:299][983]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.12.14-17.31.00:595][599]LogEditorTransaction: Undo Edit Left
+[2022.12.14-17.32.59:668][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-17.32.59:672][655]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-17.32.59:673][655]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection2543195540A01DC7B29B608439223E5B.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-17.32.59:689][655]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-17.32.59:689][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-17.33.00:498][704]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-17.33.00:579][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.14-17.33.44:300][ 62]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.14-17.39.50:845][448]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.39.51:259][470]LogEditorTransaction: Undo Edit Specified Color
+[2022.12.14-17.40.00:388][990]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.40.49:583][314]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.14-17.42.51:259][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-17.42.51:263][339]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-17.42.51:264][339]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelectionE24795CC4BC10D28D796BD92F93EBAAB.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-17.42.51:277][339]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-17.42.51:277][339]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-17.43.48:254][516]LogEditorTransaction: Undo Move Widget
+[2022.12.14-17.43.51:698][706]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.212 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.14-17.43.55:284][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-17.43.55:290][916]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-17.43.55:290][916]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelectionB8B5193140471986D5D8C089D68058BD.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-17.43.55:303][916]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-17.43.55:303][916]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-17.43.56:243][973]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-17.43.56:320][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.14-17.44.27:330][792]LogEditorTransaction: Undo Replace Widgets
+[2022.12.14-17.44.27:854][806]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.46.31:269][875]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.46.32:358][938]LogEditorTransaction: Undo Edit Specified Color
+[2022.12.14-17.46.39:191][320]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.46.39:952][363]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2022.12.14-17.46.49:680][918]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.47.06:269][881]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.47.24:707][960]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.49.17:812][666]LogEditorTransaction: Undo Edit Size To Content
+[2022.12.14-17.49.31:115][430]LogEditorTransaction: Undo Edit Right
+[2022.12.14-17.49.31:677][446]LogEditorTransaction: Undo Edit Right
+[2022.12.14-17.49.32:476][490]LogEditorTransaction: Undo Edit Brush Color
+[2022.12.14-17.49.33:909][572]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.49.34:394][597]LogEditorTransaction: Undo Edit Brush Color
+[2022.12.14-17.49.34:864][621]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.49.35:323][644]LogEditorTransaction: Undo Edit Brush Color
+[2022.12.14-17.49.36:181][691]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.51.57:385][103]LogSlate: Took 0.005788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.14-17.51.59:542][230]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.52.11:648][920]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.52.20:269][390]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.52.45:352][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.14-17.52.45:355][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.063
+[2022.12.14-17.52.45:355][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_DifficultySelection] ([2] browsable assets)...
+[2022.12.14-17.52.45:358][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection]
+[2022.12.14-17.52.45:358][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_DifficultySelection]
+[2022.12.14-17.52.45:362][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_DifficultySelection_Auto2
+[2022.12.14-17.52.45:362][855]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection_Auto27EFA64D6438B7C406439AE94F476F1D6.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_DifficultySelection_Auto2.uasset'
+[2022.12.14-17.52.45:363][855]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.12.14-17.56.13:361][297]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.56.16:167][460]LogEditorTransaction: Undo Edit Specified Color
+[2022.12.14-17.56.16:872][484]LogEditorTransaction: Undo Wrap Widgets
+[2022.12.14-17.56.30:564][272]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.56.40:701][851]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-17.56.52:851][552]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-18.00.58:075][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-18.00.58:079][250]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-18.00.58:080][250]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection074B823148F7211021B9C095DBD9CE11.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-18.00.58:095][250]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-18.00.58:095][250]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-18.00.58:652][284]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-18.00.58:735][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.14-18.02.10:668][553]LogEditorTransaction: Undo Edit Left
+[2022.12.14-18.02.11:543][594]LogEditorTransaction: Undo Edit Right
+[2022.12.14-18.02.12:021][622]LogEditorTransaction: Undo Edit Size To Content
+[2022.12.14-18.02.14:099][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-18.02.14:104][742]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-18.02.14:105][742]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection324DE05240D37D73E9E4D4ACAC0FFE8F.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-18.02.14:117][742]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-18.02.14:117][742]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-18.02.35:222][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-18.02.35:226][997]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-18.02.35:226][997]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection452A14964BC46B626CF1A9A3F20291A1.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-18.02.35:241][997]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-18.02.35:241][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-18.02.35:854][ 34]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-18.02.35:925][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
