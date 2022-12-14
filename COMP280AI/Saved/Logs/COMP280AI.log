@@ -4642,3 +4642,907 @@ Make sure 'UI_TutorialSlide2_C' has been compiled for  Set TutorialWidget3
 [2022.12.14-18.02.35:241][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
 [2022.12.14-18.02.35:854][ 34]BlueprintLog: New page: Compile UI_DifficultySelection
 [2022.12.14-18.02.35:925][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.12.14-18.05.34:638][445]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-18.05.38:490][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-18.05.38:495][668]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-18.05.38:495][668]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelectionC173D28049A2E3A3C4FA088982474064.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-18.05.38:507][668]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-18.05.38:507][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-18.05.39:159][706]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-18.05.39:233][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.14-18.07.29:623][271]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.14-18.08.03:200][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.14-18.08.03:202][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.046
+[2022.12.14-18.08.03:203][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_TutorialSlide5] ([2] browsable assets)...
+[2022.12.14-18.08.03:211][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5]
+[2022.12.14-18.08.03:211][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_TutorialSlide5]
+[2022.12.14-18.08.03:215][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_TutorialSlide5_Auto3
+[2022.12.14-18.08.03:215][249]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5_Auto35208A18A4B82398CA839299ABEC09A1F.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_TutorialSlide5_Auto3.uasset'
+[2022.12.14-18.08.03:215][249]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.12.14-18.08.08:698][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.08.08:702][573]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.08.08:702][573]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5171D472A44688CB25A69DBB10B262887.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.08.08:714][573]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.08.08:714][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.08.09:390][614]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.08.09:396][614]LogBlueprint: Error: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\UI\UI_TutorialSlide5.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.12.14-18.08.09:465][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.14-18.08.11:071][698]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.14-18.09.15:113][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.09.15:117][519]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.09.15:117][519]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide562BA97CE42F0E21AFC85E48326A57518.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.09.15:130][519]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.09.15:130][519]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.09.16:224][584]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.09.16:298][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.14-18.09.22:124][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.09.22:128][911]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.09.22:128][911]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide554721F284D9E6075416FBEBCF0DE825B.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.09.22:141][911]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.09.22:141][911]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.09.22:748][947]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.09.22:818][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.14-18.09.44:263][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.09.44:268][209]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.09.44:268][209]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5078ED76A46DDBD677A1B5793CFA86E9D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.09.44:281][209]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.09.44:281][209]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.09.44:842][243]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.09.44:915][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.14-18.09.57:546][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.09.57:551][965]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.09.57:551][965]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide554635FCF43731D724C78ADB67D5ECB83.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.09.57:562][965]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.09.57:562][965]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.09.59:431][ 77]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.09.59:507][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.14-18.10.33:085][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.10.33:089][ 78]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.10.33:090][ 78]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5F350512844DA95E99B8EFEB8E437E55D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.10.33:101][ 78]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.10.33:101][ 78]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.11.01:163][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.11.01:168][752]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.11.01:168][752]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide52E14E454405CE0737F562EB3C8EDD7BF.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.11.01:179][752]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.11.01:179][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.11.08:967][207]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.11.08:967][207]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.12.45:120][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_DifficultySelection" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset" SILENT=true
+[2022.12.14-18.12.45:125][803]LogSavePackage: Moving output files for package: /Game/UI/UI_DifficultySelection
+[2022.12.14-18.12.45:125][803]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_DifficultySelection0B49216D4FE1E2DF3695DFA99DFABEE1.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_DifficultySelection.uasset'
+[2022.12.14-18.12.45:137][803]AssetCheck: New page: Asset Save: UI_DifficultySelection
+[2022.12.14-18.12.45:138][803]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_DifficultySelection.UI_DifficultySelection
+[2022.12.14-18.12.51:327][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.12.51:327][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.13.45:000][367]LogEditorTransaction: Undo Edit Text
+[2022.12.14-18.13.48:357][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-18.13.48:362][546]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-18.13.48:363][546]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide531E7E4544EA574FC6CB21D90F2B9177E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-18.13.48:374][546]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-18.13.48:374][546]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-18.13.48:799][572]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-18.13.48:879][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.14-18.13.55:921][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.13.55:921][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.14.08:613][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-18.14.08:619][711]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-18.14.08:619][711]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide28FBA325C48DEF9B3B79F8EBFE99A333E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-18.14.08:632][711]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-18.14.08:632][711]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-18.14.12:037][915]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.14.12:037][915]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.14.21:554][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-18.14.21:560][457]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-18.14.21:561][457]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide33F7C7A174050EA9A0FA18C968CE7AA72.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-18.14.21:573][457]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-18.14.21:573][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-18.14.35:133][264]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.14.35:133][264]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-18.14.41:188][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide4" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide4.uasset" SILENT=true
+[2022.12.14-18.14.41:193][604]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide4
+[2022.12.14-18.14.41:193][604]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide4046C666A4FDA244701A135B3AEFCF985.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide4.uasset'
+[2022.12.14-18.14.41:205][604]AssetCheck: New page: Asset Save: UI_TutorialSlide4
+[2022.12.14-18.14.41:205][604]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide4.UI_TutorialSlide4
+[2022.12.14-18.14.41:900][646]BlueprintLog: New page: Compile UI_TutorialSlide4
+[2022.12.14-18.14.41:975][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.14-18.14.44:392][760]BlueprintLog: New page: Compile UI_TutorialSlide3
+[2022.12.14-18.14.44:457][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.14-18.14.46:003][835]BlueprintLog: New page: Compile UI_TutorialSlide2
+[2022.12.14-18.14.46:068][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.14-18.14.55:751][395]BlueprintLog: New page: Compile UI_DifficultySelection
+[2022.12.14-18.14.55:804][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.14-18.16.13:125][972]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.13:125][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.13:132][972]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.13:132][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.14:476][ 48]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.14:476][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.14:482][ 48]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.14:482][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.15:280][ 91]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.15:281][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.15:287][ 91]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.15:287][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.16:087][134]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.16:087][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.16:093][134]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.16:093][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.17:021][185]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.17:021][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.17:028][185]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.17:028][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.25:569][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-18.16.25:575][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-18.16.25:575][690]PIE: New page: PIE session: MainMenu (14 Dec 2022, 08:16:25)
+[2022.12.14-18.16.25:575][690]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu
+[2022.12.14-18.16.25:575][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000659s)
+[2022.12.14-18.16.25:575][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainMenu.MainMenu to /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu.MainMenu (0.000706s)
+[2022.12.14-18.16.25:575][690]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.14-18.16.25:575][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.16.25:577][690]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.14-18.16.25:577][690]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2022.12.14-18.16.25:613][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.14-18.16.25:620][690]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-18.16.25:620][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-18.16.25:620][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-18.16.25:620][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-18.16.25:620][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-18.16.25:620][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-18.16.25:622][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-18.16.25:637][690]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.14-18.16.25:638][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-18.16.25:638][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-18.16.25:638][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-18.16.25:638][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.12.14-18.16.25:638][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.12.14-18.16.25:640][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.12.14-18.16.25:640][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.12.14-18.16.25:640][690]LogInit: FAudioDevice initialized.
+[2022.12.14-18.16.25:640][690]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainMenu'.
+[2022.12.14-18.16.25:653][690]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.16.25:654][690]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.12.14-13.16.25
+[2022.12.14-18.16.25:654][690]LogWorld: Bringing up level for play took: 0.000294
+[2022.12.14-18.16.25:655][690]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.12.14-18.16.25:655][690]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.16.25:655][690]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.16.25:655][690]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.16.25:657][690]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.16.25:657][690]PIE: Server logged in
+[2022.12.14-18.16.25:657][690]PIE: Play in editor total start time 0.083 seconds.
+[2022.12.14-18.16.25:677][690]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 274886
+[2022.12.14-18.16.25:677][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.25:719][691]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.14-18.16.25:720][691]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.14-18.16.25:723][691]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.14-18.16.30:434][974]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.12.14-18.16.30:434][974]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.12.14-18.16.30:434][974]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.14-18.16.30:434][974]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.14-18.16.30:434][974]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu
+[2022.12.14-18.16.30:435][974]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.30:435][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.30:497][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.16.30:499][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.14-18.16.30:503][974]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.16.30:503][974]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.16.30:504][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000893s)
+[2022.12.14-18.16.30:504][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.000963s)
+[2022.12.14-18.16.30:504][974]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.16.30:504][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.16.30:504][974]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.16.30:504][974]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.16.30:504][974]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.14-18.16.30:506][974]LogWorldPartition: Display: GetPartitionedActors took 32 us
+[2022.12.14-18.16.30:507][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\FG\C9C8NKPQ680JETAE5ROTT1.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:507][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\FG\C9C8NKPQ680JETAE5ROTT1.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:507][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\FG\C9C8NKPQ680JETAE5ROTT1.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:507][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\9C\YVLUNOYUM6G68F56GBR77U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:507][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\9C\YVLUNOYUM6G68F56GBR77U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:508][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\9C\YVLUNOYUM6G68F56GBR77U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:508][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\AZ\A7GPT109Y6ZTTJD4A7TXER.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:509][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\AZ\A7GPT109Y6ZTTJD4A7TXER.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:509][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\AZ\A7GPT109Y6ZTTJD4A7TXER.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:510][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\HL\XWFFRCIJ8QK4NRO30ALA6J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:510][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\HL\XWFFRCIJ8QK4NRO30ALA6J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:510][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\HL\XWFFRCIJ8QK4NRO30ALA6J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:510][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\EY\87SHEJN5UBEAN2K5OV1G6R.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:511][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\EY\87SHEJN5UBEAN2K5OV1G6R.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:511][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\EY\87SHEJN5UBEAN2K5OV1G6R.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:511][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\WU\NB37RT5Q32Z8MJWD8BD2SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:511][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\WU\NB37RT5Q32Z8MJWD8BD2SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:512][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\WU\NB37RT5Q32Z8MJWD8BD2SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:512][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\0G\JNKFA4X9LRMSF343ESPF6Q.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:512][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\0G\JNKFA4X9LRMSF343ESPF6Q.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:512][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\0G\JNKFA4X9LRMSF343ESPF6Q.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:513][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:513][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\IL\DV2AWQ9FRBQOD00Z2AYAH5.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:513][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\IL\DV2AWQ9FRBQOD00Z2AYAH5.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:514][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\IL\DV2AWQ9FRBQOD00Z2AYAH5.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:514][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\29\NFYPB2AULMUARNU3CJKKVZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:514][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\29\NFYPB2AULMUARNU3CJKKVZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:514][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\29\NFYPB2AULMUARNU3CJKKVZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\AF\GU6ZFZW0AIU85LOS3OUM82.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\AF\GU6ZFZW0AIU85LOS3OUM82.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\AF\GU6ZFZW0AIU85LOS3OUM82.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:515][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\A4\MRNAT1R33LB8Z0NC2H157J.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:518][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\M3\7JQC72ZY37QM4IT43WD5CW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:518][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\M3\7JQC72ZY37QM4IT43WD5CW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:518][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\M3\7JQC72ZY37QM4IT43WD5CW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:519][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\P3\O43ETCZTFMLWWH1CJ941H2.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:519][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\P3\O43ETCZTFMLWWH1CJ941H2.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:519][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\3\P3\O43ETCZTFMLWWH1CJ941H2.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:520][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\60\5PI42YRDC8HSSG6BVV2GRR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:520][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\60\5PI42YRDC8HSSG6BVV2GRR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:520][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\60\5PI42YRDC8HSSG6BVV2GRR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:521][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\QF\BY1DA5CRGQSAMOTK8RA8KR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:521][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\QF\BY1DA5CRGQSAMOTK8RA8KR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:521][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\QF\BY1DA5CRGQSAMOTK8RA8KR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:522][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\LN\30UBDLYFFA5ZR7U4W4L4GG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:522][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\LN\30UBDLYFFA5ZR7U4W4L4GG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:523][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\LN\30UBDLYFFA5ZR7U4W4L4GG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:524][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\PN\2QISIGK5DJNQ05US8O8FXW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:524][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\PN\2QISIGK5DJNQ05US8O8FXW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:524][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\PN\2QISIGK5DJNQ05US8O8FXW.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:525][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\11\IM858T68EBXCBX1T2FNR96.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:525][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\11\IM858T68EBXCBX1T2FNR96.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:525][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\11\IM858T68EBXCBX1T2FNR96.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:526][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\8K\1IKKDYS7RULH8FRYRPPF04.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:526][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\8K\1IKKDYS7RULH8FRYRPPF04.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:526][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\8K\1IKKDYS7RULH8FRYRPPF04.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:527][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\7E\BEYC27T14FHBU6LF2F60RR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:527][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\7E\BEYC27T14FHBU6LF2F60RR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:528][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\7E\BEYC27T14FHBU6LF2F60RR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:528][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\9Q\U98KGKQ41NJYFOGFQM8ZDY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:529][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\9Q\U98KGKQ41NJYFOGFQM8ZDY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:529][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\9Q\U98KGKQ41NJYFOGFQM8ZDY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:529][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\QO\CO9MG7REJF8N8AQFYRCI06.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:530][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\QO\CO9MG7REJF8N8AQFYRCI06.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:530][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\QO\CO9MG7REJF8N8AQFYRCI06.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:530][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\R1\TS5OQ5CRUWFZYL1ZQ7I416.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:530][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\R1\TS5OQ5CRUWFZYL1ZQ7I416.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:531][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\R1\TS5OQ5CRUWFZYL1ZQ7I416.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:531][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\CZ\K2YM0JIRZ78IHGM8W2QBAF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:531][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\CZ\K2YM0JIRZ78IHGM8W2QBAF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:532][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\CZ\K2YM0JIRZ78IHGM8W2QBAF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:532][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\HF\9H7TKAXH9DD8KI3TIXGI2I.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:532][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\HF\9H7TKAXH9DD8KI3TIXGI2I.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:532][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\HF\9H7TKAXH9DD8KI3TIXGI2I.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:533][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\IR\OTJMGDDXDV5TI7982YKZ5P.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:533][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\IR\OTJMGDDXDV5TI7982YKZ5P.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:533][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\IR\OTJMGDDXDV5TI7982YKZ5P.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:534][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\J7\N10XDC9G27EMLS5AGZ6AVV.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:534][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\J7\N10XDC9G27EMLS5AGZ6AVV.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:534][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\J7\N10XDC9G27EMLS5AGZ6AVV.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\NC\UUYHDUFQAXTRRN4RVOPIUF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\NC\UUYHDUFQAXTRRN4RVOPIUF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\NC\UUYHDUFQAXTRRN4RVOPIUF.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\YT\CQR16QFDKKEYP53M51TV4F.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\YT\CQR16QFDKKEYP53M51TV4F.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:535][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\YT\CQR16QFDKKEYP53M51TV4F.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:537][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\XB\9VVR39MG0K7W5GQIEFE7SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:537][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\XB\9VVR39MG0K7W5GQIEFE7SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:537][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\XB\9VVR39MG0K7W5GQIEFE7SO.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:538][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\YO\NG2R9BPZVA7ZDN0Z4VSTG6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:538][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\YO\NG2R9BPZVA7ZDN0Z4VSTG6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:538][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\YO\NG2R9BPZVA7ZDN0Z4VSTG6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:539][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\EA\9BWDWCNL7OZT2HTML9LK1Y.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:539][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\EA\9BWDWCNL7OZT2HTML9LK1Y.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:539][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\EA\9BWDWCNL7OZT2HTML9LK1Y.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:539][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3J\6B9RJI3FDPCETRKXUXCQ4C.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:539][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3J\6B9RJI3FDPCETRKXUXCQ4C.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:540][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3J\6B9RJI3FDPCETRKXUXCQ4C.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:540][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\4D\BBOCKSZY1GVHTFRX0PR0O8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:540][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\4D\BBOCKSZY1GVHTFRX0PR0O8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:540][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\4D\BBOCKSZY1GVHTFRX0PR0O8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:541][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\S1\DXUWD12MD3HRWVVXX076BY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:541][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\S1\DXUWD12MD3HRWVVXX076BY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:541][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\S1\DXUWD12MD3HRWVVXX076BY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:542][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\MS\MRHJREJ6H7USQYWF1KO8F6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:542][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\MS\MRHJREJ6H7USQYWF1KO8F6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:542][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\MS\MRHJREJ6H7USQYWF1KO8F6.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:543][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\FB\8RB55FM1HBEUVO4IOQC4YN.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:543][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\FB\8RB55FM1HBEUVO4IOQC4YN.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:543][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\FB\8RB55FM1HBEUVO4IOQC4YN.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:544][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\TJ\3VNVZTFCS71J8GPIYIY5DU.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:544][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\TJ\3VNVZTFCS71J8GPIYIY5DU.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:544][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\TJ\3VNVZTFCS71J8GPIYIY5DU.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:545][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\U7\H8YL2PPHZPBTI74SUD0RNL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:545][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\U7\H8YL2PPHZPBTI74SUD0RNL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:545][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\U7\H8YL2PPHZPBTI74SUD0RNL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:546][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\16\Q7Y1URWWFS0TXGWUTO3S61.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:546][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\16\Q7Y1URWWFS0TXGWUTO3S61.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:546][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\16\Q7Y1URWWFS0TXGWUTO3S61.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:546][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\17\6LXV4Y6DE3LUT705XNU4DZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:547][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\17\6LXV4Y6DE3LUT705XNU4DZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:547][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\17\6LXV4Y6DE3LUT705XNU4DZ.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:547][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\WJ\CUG1JBJBHL08VS9JH5NLQ0.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\WJ\CUG1JBJBHL08VS9JH5NLQ0.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\2\WJ\CUG1JBJBHL08VS9JH5NLQ0.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\EG\8HJS9QP2DJT4KSAGG4GSQ8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\EG\8HJS9QP2DJT4KSAGG4GSQ8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:548][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\4\EG\8HJS9QP2DJT4KSAGG4GSQ8.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:549][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\5N\28S3Y3IRGO81WFQS5MOGSL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:549][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\5N\28S3Y3IRGO81WFQS5MOGSL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:549][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\5\5N\28S3Y3IRGO81WFQS5MOGSL.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:549][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\OE\A1OH7XOHU391IRQDNUWGWI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\OE\A1OH7XOHU391IRQDNUWGWI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\6\OE\A1OH7XOHU391IRQDNUWGWI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\7\AQ\ESO7PGDIYHE8O4CDHZTF1N.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\7\AQ\ESO7PGDIYHE8O4CDHZTF1N.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\7\AQ\ESO7PGDIYHE8O4CDHZTF1N.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:550][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3R\IX12QHV11G385WQSYR278E.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:551][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3R\IX12QHV11G385WQSYR278E.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:551][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\8\3R\IX12QHV11G385WQSYR278E.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:551][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\DI\WVXAOL38AS40MDTJ6WQLPE.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:551][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\DI\WVXAOL38AS40MDTJ6WQLPE.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:551][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\DI\WVXAOL38AS40MDTJ6WQLPE.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\N5\Y4T3LDHVT7ZX2I5FJMOELY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\N5\Y4T3LDHVT7ZX2I5FJMOELY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\9\N5\Y4T3LDHVT7ZX2I5FJMOELY.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\GY\ERVSGZAWIGDR2J73RFGY2U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\GY\ERVSGZAWIGDR2J73RFGY2U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:552][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\B\GY\ERVSGZAWIGDR2J73RFGY2U.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DX\NIMBVIKQVGAU9IEA2URIWA.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DX\NIMBVIKQVGAU9IEA2URIWA.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DX\NIMBVIKQVGAU9IEA2URIWA.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:553][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:554][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\6A\GWO3N34U483MHYI00ESVKI.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:557][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\3V\NMHOKL5LGQDOAAG00FUMZR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:557][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\3V\NMHOKL5LGQDOAAG00FUMZR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:557][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\3V\NMHOKL5LGQDOAAG00FUMZR.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:557][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DE\SWSI13675DVYIZ0N4NF7Y3.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:558][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DE\SWSI13675DVYIZ0N4NF7Y3.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:558][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\D\DE\SWSI13675DVYIZ0N4NF7Y3.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:558][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\E\8O\GK06JAEJ82TQ0GA2QB0DJG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:559][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\E\8O\GK06JAEJ82TQ0GA2QB0DJG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:559][974]LogLinker: Warning: [AssetLog] C:\School\Fork\cb264195-comp280-a1\COMP280AI\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\E\8O\GK06JAEJ82TQ0GA2QB0DJG.uasset: Failed to load '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap': Can't find file.
+[2022.12.14-18.16.30:559][974]LogWorldPartition: Display: GenerateStreaming took 53 ms
+[2022.12.14-18.16.30:560][974]LogWorldPartition: Display: WorldPartition initialize took 56 ms
+[2022.12.14-18.16.30:560][974]LogPlayLevel: PIE: World Init took: (0.057040s)
+[2022.12.14-18.16.30:560][974]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.16.30:562][974]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.16.30
+[2022.12.14-18.16.30:563][974]LogWorld: Bringing up level for play took: 0.002553
+[2022.12.14-18.16.30:564][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.16.30:564][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.16.30:564][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.16.30:564][974]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.14-18.16.30:564][974]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.16.30:567][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.16.30:567][974]LogLoad: Took 0.132497 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2022.12.14-18.16.38:055][423]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.14-18.16.38:055][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.14-18.16.38:688][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.16.38:688][461]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.16.38:689][461]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.16.38:689][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.38:702][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-18.16.38:707][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.16.38:738][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.16.38:738][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.14-18.16.38:739][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.14-18.16.38:742][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.16.38:746][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.14-18.16.38:803][462]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.12.14-18.17.03:186][744]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-18.17.03:189][744]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.14-18.17.32:134][470]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.17.32:134][470]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.17.35:928][695]LogContentBrowser: Attempting asset rename: ThirdPersonMap -> EasyMap
+[2022.12.14-18.17.41:887][695]LogSlate: Window 'Message' being destroyed
+[2022.12.14-18.17.41:897][695]Message dialog closed, result: No, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+ThirdPersonMap (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2022.12.14-18.17.45:718][906]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.17.45:718][906]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.17.47:531][ 12]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.17.47:531][ 12]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-18.18.06:152][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.14-18.18.06:155][122]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.12.14-18.18.06:155][122]Cmd: MAP LOAD FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.14-18.18.06:155][122]LightingResults: New page: Lighting Build
+[2022.12.14-18.18.06:159][122]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.12.14-18.18.06:200][122]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.18.06:200][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.18.06:200][122]MapCheck: New page: Map Check
+[2022.12.14-18.18.06:200][122]LightingResults: New page: Lighting Build
+[2022.12.14-18.18.06:231][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.18.06:236][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.14-18.18.06:241][122]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.18.06:241][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.18.06:273][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.14-18.18.06:305][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.14-18.18.06:311][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.18.06:311][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.18.06:312][122]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.18.06:312][122]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.18.06:312][122]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.12.14-18.18.06:343][122]LogWorldPartition: Display: WorldPartition initialize took 30 ms
+[2022.12.14-18.18.06:383][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.14-18.18.06:419][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.14-18.18.06:426][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.14-18.18.06:426][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2022.12.14-18.18.06:426][122]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.270
+[2022.12.14-18.18.07:208][140]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.12.14-18.18.42:906][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.18.42:906][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.18.42:910][219]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_0
+[2022.12.14-18.18.42:912][219]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_0
+[2022.12.14-18.18.49:055][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.18.49:055][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.18.49:060][586]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1371117336
+[2022.12.14-18.18.49:062][586]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1371117336
+[2022.12.14-18.18.49:120][587]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.18.56:134][929]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.19.08:243][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.19.08:243][527]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.19.08:244][527]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_0
+[2022.12.14-18.19.08:245][527]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_0
+[2022.12.14-18.19.09:493][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.19.09:493][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.19.09:495][592]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1391555337
+[2022.12.14-18.19.09:495][592]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1391555337
+[2022.12.14-18.20.03:534][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.03:534][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.03:535][658]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_1
+[2022.12.14-18.20.03:536][658]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_1
+[2022.12.14-18.20.04:544][717]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.04:544][717]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.04:546][717]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1446606338
+[2022.12.14-18.20.04:547][717]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1446606338
+[2022.12.14-18.20.41:025][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.41:025][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.41:027][866]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_2
+[2022.12.14-18.20.41:027][866]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_2
+[2022.12.14-18.20.42:425][948]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.42:425][948]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.42:426][948]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1484487339
+[2022.12.14-18.20.42:428][948]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1484487339
+[2022.12.14-18.20.47:355][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.47:355][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.47:356][233]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_3
+[2022.12.14-18.20.47:357][233]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_3
+[2022.12.14-18.20.48:853][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.48:853][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.20.48:855][321]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1490915340
+[2022.12.14-18.20.48:855][321]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1490915340
+[2022.12.14-18.21.04:292][209]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.21.08:576][425]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.14-18.21.15:644][786]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.14-18.21.53:868][700]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G5/EUI1EZIE5RL8490843HYYX
+[2022.12.14-18.21.53:868][700]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/EUI1EZIE5RL8490843HYYXDBB0842A41629A969AD0E3B599A618CA.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G5/EUI1EZIE5RL8490843HYYX.uasset'
+[2022.12.14-18.21.53:889][700]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AS/7DD4OSVM6LEJ8T5A3E0YK4
+[2022.12.14-18.21.53:889][700]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/7DD4OSVM6LEJ8T5A3E0YK462A089B94A5CFC991404569D64F5028C.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AS/7DD4OSVM6LEJ8T5A3E0YK4.uasset'
+[2022.12.14-18.21.53:891][700]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VV/Y1KD8FB88BA3CHAL50FJ1D
+[2022.12.14-18.21.53:891][700]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Y1KD8FB88BA3CHAL50FJ1D279E847F46AA4C39C0E100B7969B2D25.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VV/Y1KD8FB88BA3CHAL50FJ1D.uasset'
+[2022.12.14-18.21.53:892][700]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B2/T2SUJIWLZNDSJRI59XSC6P
+[2022.12.14-18.21.53:892][700]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/T2SUJIWLZNDSJRI59XSC6P168AAF2642B5C60DA6F2C3A2B1601E19.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B2/T2SUJIWLZNDSJRI59XSC6P.uasset'
+[2022.12.14-18.21.53:894][700]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NL/YCR4F7O0NTOCLWGNCJOAIS
+[2022.12.14-18.21.53:894][700]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YCR4F7O0NTOCLWGNCJOAISBB108BED45F088B9E1973185A05A0660.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NL/YCR4F7O0NTOCLWGNCJOAIS.uasset'
+[2022.12.14-18.21.53:922][700]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.14-18.21.53:922][700]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1371117336
+[2022.12.14-18.21.53:923][700]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1391555337
+[2022.12.14-18.21.53:923][700]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1446606338
+[2022.12.14-18.21.53:923][700]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1484487339
+[2022.12.14-18.21.53:923][700]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1490915340
+[2022.12.14-18.21.54:503][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-18.21.54:509][734]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-18.21.54:509][734]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-18.21.54:510][734]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.21.54:510][734]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.14-18.21.54:510][734]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.14-18.21.54:510][734]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2022.12.14-18.21.54:510][734]LogWorldPartition: Display: GenerateStreaming took 450 us
+[2022.12.14-18.21.54:510][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-18.21.54:510][734]PIE: New page: PIE session: ThirdPersonMap (14 Dec 2022, 08:21:54)
+[2022.12.14-18.21.54:549][734]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.21.54:555][734]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.21.54:555][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006443s)
+[2022.12.14-18.21.54:555][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006514s)
+[2022.12.14-18.21.54:555][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.21.54:555][734]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.21.54:556][734]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.21.54:556][734]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.21.54:557][734]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.14-18.21.54:557][734]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2022.12.14-18.21.54:625][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.14-18.21.54:634][734]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-18.21.54:634][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-18.21.54:634][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-18.21.54:635][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-18.21.54:635][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-18.21.54:635][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-18.21.54:637][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-18.21.54:651][734]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.14-18.21.54:651][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-18.21.54:651][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-18.21.54:651][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-18.21.54:652][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.12.14-18.21.54:652][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.12.14-18.21.54:653][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.12.14-18.21.54:653][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.12.14-18.21.54:653][734]LogInit: FAudioDevice initialized.
+[2022.12.14-18.21.54:653][734]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.21.54:663][734]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.21.54:667][734]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.21.54
+[2022.12.14-18.21.54:668][734]LogWorld: Bringing up level for play took: 0.003586
+[2022.12.14-18.21.54:669][734]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2022.12.14-18.21.54:669][734]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.14-18.21.54:669][734]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.21.54:670][734]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.21.54:670][734]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.21.54:670][734]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.21.54:672][734]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.21.54:672][734]PIE: Server logged in
+[2022.12.14-18.21.54:672][734]PIE: Play in editor total start time 0.164 seconds.
+[2022.12.14-18.21.54:689][734]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.14-18.22.09:249][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.22.09:249][603]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.22.09:249][603]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.22.09:249][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.22.09:258][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-18.22.09:263][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.22.09:303][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.22.09:303][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.14-18.22.09:304][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.14-18.22.09:307][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.22.09:318][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.14-18.22.09:369][604]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.12.14-18.22.43:646][599]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VV/Y1KD8FB88BA3CHAL50FJ1D
+[2022.12.14-18.22.43:646][599]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Y1KD8FB88BA3CHAL50FJ1D611874AA469D48D1C2392B82F4041497.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VV/Y1KD8FB88BA3CHAL50FJ1D.uasset'
+[2022.12.14-18.22.43:648][599]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B2/T2SUJIWLZNDSJRI59XSC6P
+[2022.12.14-18.22.43:648][599]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/T2SUJIWLZNDSJRI59XSC6P06C587F34E9D6331384DFDA35DFB628F.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B2/T2SUJIWLZNDSJRI59XSC6P.uasset'
+[2022.12.14-18.22.43:650][599]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AS/7DD4OSVM6LEJ8T5A3E0YK4
+[2022.12.14-18.22.43:650][599]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/7DD4OSVM6LEJ8T5A3E0YK43EFA99A94545597A956A689D47CE612E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AS/7DD4OSVM6LEJ8T5A3E0YK4.uasset'
+[2022.12.14-18.22.43:652][599]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NL/YCR4F7O0NTOCLWGNCJOAIS
+[2022.12.14-18.22.43:652][599]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/YCR4F7O0NTOCLWGNCJOAISD4EE7FA4491CB73905BC6AB343571C9C.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NL/YCR4F7O0NTOCLWGNCJOAIS.uasset'
+[2022.12.14-18.22.43:665][599]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.14-18.22.43:665][599]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1391555337
+[2022.12.14-18.22.43:665][599]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1446606338
+[2022.12.14-18.22.43:665][599]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1484487339
+[2022.12.14-18.22.43:665][599]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1490915340
+[2022.12.14-18.22.44:690][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.14-18.22.44:697][657]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2022.12.14-18.22.44:698][657]LogWorldPartition: Display: GenerateStreaming took 464 us
+[2022.12.14-18.22.44:698][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-18.22.44:698][657]PIE: New page: PIE session: ThirdPersonMap (14 Dec 2022, 08:22:44)
+[2022.12.14-18.22.44:699][657]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.22.44:706][657]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.22.44:706][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007564s)
+[2022.12.14-18.22.44:706][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007636s)
+[2022.12.14-18.22.44:706][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.22.44:706][657]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.22.44:707][657]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.22.44:707][657]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.22.44:708][657]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.14-18.22.44:708][657]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2022.12.14-18.22.44:743][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.14-18.22.44:749][657]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-18.22.44:749][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-18.22.44:749][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-18.22.44:749][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-18.22.44:749][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-18.22.44:749][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-18.22.44:751][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-18.22.44:765][657]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.14-18.22.44:767][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-18.22.44:767][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-18.22.44:767][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-18.22.44:767][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.12.14-18.22.44:767][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.12.14-18.22.44:768][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.12.14-18.22.44:768][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.12.14-18.22.44:768][657]LogInit: FAudioDevice initialized.
+[2022.12.14-18.22.44:768][657]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.22.44:778][657]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.22.44:781][657]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.22.44
+[2022.12.14-18.22.44:782][657]LogWorld: Bringing up level for play took: 0.003716
+[2022.12.14-18.22.44:783][657]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2022.12.14-18.22.44:784][657]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.14-18.22.44:784][657]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.22.44:784][657]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.22.44:784][657]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.22.44:784][657]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.22.44:786][657]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.22.44:786][657]PIE: Server logged in
+[2022.12.14-18.22.44:786][657]PIE: Play in editor total start time 0.091 seconds.
+[2022.12.14-18.23.03:171][757]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.14-18.23.03:171][757]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.14-18.23.03:885][800]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.14-18.23.03:887][800]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.14-18.23.03:888][800]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.12.14-18.23.03:888][800]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.12.14-18.23.03:888][800]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.14-18.23.03:888][800]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.14-18.23.03:888][800]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.23.03:888][800]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.23.03:889][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.23.03:927][800]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.23.03:929][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.12.14-18.23.03:933][800]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.23.03:939][800]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.23.03:939][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006089s)
+[2022.12.14-18.23.03:939][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006152s)
+[2022.12.14-18.23.03:939][800]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.23.03:939][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.23.03:940][800]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.23.03:940][800]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.23.03:940][800]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.23.03:941][800]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.14-18.23.03:941][800]LogPlayLevel: PIE: World Init took: (0.002146s)
+[2022.12.14-18.23.03:941][800]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.23.03:944][800]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.23.03
+[2022.12.14-18.23.03:944][800]LogWorld: Bringing up level for play took: 0.002833
+[2022.12.14-18.23.03:945][800]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.23.03:945][800]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.23.03:945][800]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.23.03:946][800]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.14-18.23.03:946][800]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.23.03:948][800]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.23.03:948][800]LogLoad: Took 0.060187 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2022.12.14-18.23.06:969][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.23.06:969][980]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.23.06:969][980]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.23.06:969][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.23.06:982][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-18.23.06:986][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.23.07:024][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.23.07:024][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.14-18.23.07:026][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.14-18.23.07:028][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.23.07:032][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.14-18.23.07:082][981]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.12.14-18.24.52:595][226]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.14-18.24.55:913][423]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.14-18.25.02:529][815]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.14-18.25.04:406][917]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2022.12.14-18.25.04:406][917]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/SWSI13675DVYIZ0N4NF7Y33D3AD0E14EC89C42C4759D8C92465394.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2022.12.14-18.25.04:423][917]AssetCheck: New page: Asset Save: PlayerStart_0
+[2022.12.14-18.25.04:423][917]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2022.12.14-18.25.05:016][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.12.14-18.25.05:024][950]LogWorldPartition: Display: GenerateStreaming took 485 us
+[2022.12.14-18.25.05:025][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-18.25.05:025][950]PIE: New page: PIE session: ThirdPersonMap (14 Dec 2022, 08:25:05)
+[2022.12.14-18.25.05:025][950]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.25.05:032][950]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.25.05:032][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007584s)
+[2022.12.14-18.25.05:032][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007656s)
+[2022.12.14-18.25.05:032][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.25.05:034][950]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.25.05:034][950]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.25.05:034][950]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.25.05:035][950]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.14-18.25.05:035][950]LogPlayLevel: PIE: World Init took: (0.002248s)
+[2022.12.14-18.25.05:070][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.12.14-18.25.05:073][950]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-18.25.05:073][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-18.25.05:073][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-18.25.05:074][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-18.25.05:074][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-18.25.05:074][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-18.25.05:076][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-18.25.05:092][950]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.14-18.25.05:092][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-18.25.05:092][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-18.25.05:092][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-18.25.05:093][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.12.14-18.25.05:093][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.12.14-18.25.05:094][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.12.14-18.25.05:094][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.12.14-18.25.05:094][950]LogInit: FAudioDevice initialized.
+[2022.12.14-18.25.05:094][950]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.25.05:103][950]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.25.05:106][950]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.25.05
+[2022.12.14-18.25.05:108][950]LogWorld: Bringing up level for play took: 0.003942
+[2022.12.14-18.25.05:109][950]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.12.14-18.25.05:110][950]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=330.000 Z=92.013
+[2022.12.14-18.25.05:110][950]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.25.05:110][950]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.25.05:110][950]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.25.05:110][950]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.25.05:113][950]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.25.05:113][950]PIE: Server logged in
+[2022.12.14-18.25.05:113][950]PIE: Play in editor total start time 0.091 seconds.
+[2022.12.14-18.25.09:699][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.25.09:699][220]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.25.09:699][220]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.25.09:699][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.25.09:708][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-18.25.09:713][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.25.09:749][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.25.09:749][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.14-18.25.09:750][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.14-18.25.09:756][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.14-18.25.09:809][221]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.12.14-18.25.17:962][686]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.25.17:962][686]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.25.17:965][686]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_1
+[2022.12.14-18.25.17:967][686]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_1
+[2022.12.14-18.25.19:265][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.25.19:265][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard_C
+[2022.12.14-18.25.19:269][762]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.14-18.25.19:272][762]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Enemy_Guard.Enemy_Guard as actor: Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.14-18.25.19:405][763]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.25.39:767][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.39:767][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.39:768][885]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_4
+[2022.12.14-18.25.39:769][885]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_4
+[2022.12.14-18.25.44:162][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.44:162][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.44:164][147]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1786224342
+[2022.12.14-18.25.44:164][147]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1786224342
+[2022.12.14-18.25.55:802][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.55:803][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.55:804][782]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_5
+[2022.12.14-18.25.55:805][782]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_5
+[2022.12.14-18.25.56:836][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.56:836][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.25.56:838][842]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1798898343
+[2022.12.14-18.25.56:839][842]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1798898343
+[2022.12.14-18.26.17:939][ 31]Cmd: SELECT NONE
+[2022.12.14-18.26.20:851][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.26.20:851][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.26.20:853][195]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_6
+[2022.12.14-18.26.20:853][195]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_6
+[2022.12.14-18.26.26:442][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.26.26:442][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point_C
+[2022.12.14-18.26.26:446][529]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1828504344
+[2022.12.14-18.26.26:447][529]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/AI/Patrol_Point.Patrol_Point as actor: Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1828504344
+[2022.12.14-18.26.31:712][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD
+[2022.12.14-18.26.31:712][832]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/3V3JB8LFL32X1UBJKNL9BDA1691D3C46880F49FE27FEA757431EB5.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD.uasset'
+[2022.12.14-18.26.31:714][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/26/9IOB8JDR6OZ5RVWOF889UB
+[2022.12.14-18.26.31:715][832]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/9IOB8JDR6OZ5RVWOF889UB281297A5434BFF5DB9BD7791C9C15F3A.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/26/9IOB8JDR6OZ5RVWOF889UB.uasset'
+[2022.12.14-18.26.31:716][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2S/PAZSJDIAN6DJ66GD5AAU8T
+[2022.12.14-18.26.31:716][832]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/PAZSJDIAN6DJ66GD5AAU8T9148700A419A5C7A3AD0F0935ADA8155.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2S/PAZSJDIAN6DJ66GD5AAU8T.uasset'
+[2022.12.14-18.26.31:717][832]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0P/ERTIVBH3BWAZGTLP2RA3PC
+[2022.12.14-18.26.31:717][832]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/ERTIVBH3BWAZGTLP2RA3PCE252D6DC4568EEBC888AFF8C6E6BEDB4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0P/ERTIVBH3BWAZGTLP2RA3PC.uasset'
+[2022.12.14-18.26.31:736][832]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.14-18.26.31:736][832]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1798898343
+[2022.12.14-18.26.31:736][832]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1786224342
+[2022.12.14-18.26.31:736][832]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.14-18.26.31:736][832]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1828504344
+[2022.12.14-18.26.33:847][948]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.26.35:933][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.14-18.26.52:695][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/26/9IOB8JDR6OZ5RVWOF889UB
+[2022.12.14-18.26.52:696][  7]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/9IOB8JDR6OZ5RVWOF889UBD891E0334054CAFD21205A840985D161.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/26/9IOB8JDR6OZ5RVWOF889UB.uasset'
+[2022.12.14-18.26.52:698][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2S/PAZSJDIAN6DJ66GD5AAU8T
+[2022.12.14-18.26.52:699][  7]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/PAZSJDIAN6DJ66GD5AAU8TA68059864E6E1D034DDC99A9A91178C6.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2S/PAZSJDIAN6DJ66GD5AAU8T.uasset'
+[2022.12.14-18.26.52:700][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0P/ERTIVBH3BWAZGTLP2RA3PC
+[2022.12.14-18.26.52:701][  7]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/ERTIVBH3BWAZGTLP2RA3PC20940F9C426088E327790793652F85C8.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0P/ERTIVBH3BWAZGTLP2RA3PC.uasset'
+[2022.12.14-18.26.52:714][  7]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.14-18.26.52:714][  7]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1798898343
+[2022.12.14-18.26.52:714][  7]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1786224342
+[2022.12.14-18.26.52:714][  7]LogContentValidation: Display: Validating Patrol_Point_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Patrol_Point_C_UAID_7C214AF4C549035301_1828504344
+[2022.12.14-18.26.54:256][ 93]LogViewport: Scene viewport resized to 1461x856, mode Windowed.
+[2022.12.14-18.26.56:396][198]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.14-18.27.19:193][322]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD
+[2022.12.14-18.27.19:193][322]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/3V3JB8LFL32X1UBJKNL9BD45A2B0364FEA3EB5B23AADBCC33A03A0.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD.uasset'
+[2022.12.14-18.27.19:208][322]AssetCheck: New page: Asset Save: Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.14-18.27.19:208][322]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.14-18.27.19:844][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: GetPartitionedActors took 44 us
+[2022.12.14-18.27.19:850][360]LogWorldPartition: Display: GenerateStreaming took 447 us
+[2022.12.14-18.27.19:850][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-18.27.19:850][360]PIE: New page: PIE session: ThirdPersonMap (14 Dec 2022, 08:27:19)
+[2022.12.14-18.27.19:851][360]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.27.19:858][360]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.14-18.27.19:858][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007522s)
+[2022.12.14-18.27.19:858][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007565s)
+[2022.12.14-18.27.19:858][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-18.27.19:859][360]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.14-18.27.19:859][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.14-18.27.19:859][360]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.14-18.27.19:861][360]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.12.14-18.27.19:861][360]LogPlayLevel: PIE: World Init took: (0.002122s)
+[2022.12.14-18.27.19:901][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.14-18.27.19:913][360]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.14-18.27.19:913][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-18.27.19:913][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-18.27.19:913][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-18.27.19:913][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-18.27.19:913][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-18.27.19:914][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.14-18.27.19:929][360]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.12.14-18.27.19:929][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-18.27.19:929][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-18.27.19:929][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-18.27.19:929][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.12.14-18.27.19:929][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.12.14-18.27.19:931][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.12.14-18.27.19:931][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.12.14-18.27.19:931][360]LogInit: FAudioDevice initialized.
+[2022.12.14-18.27.19:931][360]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2022.12.14-18.27.19:937][360]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.14-18.27.19:941][360]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.12.14-13.27.19
+[2022.12.14-18.27.19:942][360]LogWorld: Bringing up level for play took: 0.003760
+[2022.12.14-18.27.19:943][360]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.12.14-18.27.19:944][360]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=330.000 Z=92.013
+[2022.12.14-18.27.19:944][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.14-18.27.19:944][360]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.27.19:944][360]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.14-18.27.19:944][360]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.27.19:946][360]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.14-18.27.19:946][360]PIE: Server logged in
+[2022.12.14-18.27.19:947][360]PIE: Play in editor total start time 0.098 seconds.
+[2022.12.14-18.27.53:021][340]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.14-18.27.53:021][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.14-18.27.53:520][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.27.53:520][370]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.12.14-18.27.53:560][370]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-18.27.53:560][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.27.53:574][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-18.27.53:578][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-18.27.53:614][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-18.27.53:614][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.12.14-18.27.53:616][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.12.14-18.27.53:619][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-18.27.53:622][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.14-18.27.53:721][371]LogPlayLevel: Display: Destroying online subsystem :Context_61
