@@ -2370,3 +2370,319 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.14-13.16.03:457][466]AssetCheck: New page: Asset Save: tutorial-slide-objective
 [2022.12.14-13.16.03:457][466]LogContentValidation: Display: Validating Texture2D /Game/UI/tutorial-slide-objective.tutorial-slide-objective
 [2022.12.14-13.16.06:470][570]AssetReimport: Importing new asset /Game/UI/tutorial-slide-objective.
+[2022.12.14-13.24.13:817][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.24.13:817][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.24.13:826][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.24.14:112][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-13.24.14:112][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-13.24.40:048][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.24.40:050][655]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.24.40:051][655]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1598E70AE46A205CD75DFE8838A3737B8.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.24.40:064][655]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.24.40:064][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.24.40:753][697]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.24.40:810][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.12.14-13.24.58:945][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.24.58:948][767]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.24.58:948][767]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1D915E4FF4C171231903D9EB0A6AB6AB8.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.24.58:960][767]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.24.58:960][767]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.24.59:532][802]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.24.59:589][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.12.14-13.25.04:301][ 70]LogSlate: Window 'UI_TutorialSlide1' being destroyed
+[2022.12.14-13.25.52:546][946]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-13.26.02:838][555]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-13.26.06:554][777]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.26.06:615][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.14-13.26.08:545][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.26.08:547][886]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.26.08:548][886]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide12264D6014D0631341C728AA7AC72FF14.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.26.08:558][886]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.26.08:558][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.27.30:467][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.27.30:470][775]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.27.30:471][775]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1358EB61D4FBCA1541A6A3386C85077E4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.27.30:484][775]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.27.30:484][775]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.27.43:406][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.27.43:408][544]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.27.43:409][544]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1CB1CC3AE4C643F019697F2BDF7D93954.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.27.43:419][544]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.27.43:419][544]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.27.44:274][595]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.27.44:335][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.14-13.27.54:162][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.27.54:164][179]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.27.54:164][179]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1443150AD4B3607240B6CBDBE6D202827.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.27.54:176][179]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.27.54:176][179]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.27.54:897][223]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.27.54:951][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.14-13.30.57:469][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide1" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset" SILENT=true
+[2022.12.14-13.30.57:472][ 59]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide1
+[2022.12.14-13.30.57:472][ 59]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide1256972A64333C670C1C1CABA76A53767.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide1.uasset'
+[2022.12.14-13.30.57:482][ 59]AssetCheck: New page: Asset Save: UI_TutorialSlide1
+[2022.12.14-13.30.57:482][ 59]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide1.UI_TutorialSlide1
+[2022.12.14-13.30.58:110][ 97]BlueprintLog: New page: Compile UI_TutorialSlide1
+[2022.12.14-13.30.58:165][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.14-13.31.25:180][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.14-13.31.25:182][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2022.12.14-13.31.25:182][695]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_PauseMenu] ([2] browsable assets)...
+[2022.12.14-13.31.25:184][695]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_PauseMenu.UI_PauseMenu]
+[2022.12.14-13.31.25:184][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_PauseMenu]
+[2022.12.14-13.31.25:184][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_PauseMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_PauseMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.12.14-13.31.25:189][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_PauseMenu_Auto2
+[2022.12.14-13.31.25:189][695]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_PauseMenu_Auto277E60F2B4F9B95F71CF20C85DB09C1F0.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_PauseMenu_Auto2.uasset'
+[2022.12.14-13.31.25:198][695]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.12.14-13.40.18:713][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_PauseMenu" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_PauseMenu.uasset" SILENT=true
+[2022.12.14-13.40.18:719][976]LogSavePackage: Moving output files for package: /Game/UI/UI_PauseMenu
+[2022.12.14-13.40.18:719][976]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_PauseMenu0594662E4EAA23B174F5A7AC26CCB987.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_PauseMenu.uasset'
+[2022.12.14-13.40.18:736][976]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2022.12.14-13.40.18:736][976]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_PauseMenu.UI_PauseMenu
+[2022.12.14-13.40.21:351][132]BlueprintLog: New page: Compile UI_PauseMenu
+[2022.12.14-13.40.21:412][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.12.14-13.41.07:881][913]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.41.07:881][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.41.07:888][913]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.41.07:888][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.41.14:243][278]LogContentBrowser: Deferred new asset file creation: UI_TutorialSlide2
+[2022.12.14-13.41.14:250][278]LogContentBrowser: Creating deferred item: UI_TutorialSlide2
+[2022.12.14-13.41.14:263][279]LogContentBrowser: Renaming the item being created (Deferred Item: UI_TutorialSlide2).
+[2022.12.14-13.41.26:440][ 10]LogContentBrowser: Attempting asset rename: UI_TutorialSlide2 -> UI_TutorialSlide2
+[2022.12.14-13.41.26:489][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.12.14-13.41.26:497][ 10]LogContentBrowser: End creating deferred item UI_TutorialSlide2
+[2022.12.14-13.41.30:144][213]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.30:144][213]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.30:582][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-13.41.30:585][233]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-13.41.30:585][233]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide265CB6C794AF2D87C7BC187AEDBAB80EA.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-13.41.30:596][233]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-13.41.30:596][233]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-13.41.37:563][642]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.37:563][642]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.43:934][  3]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.43:934][  3]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.47:162][195]LogContentBrowser: Attempting asset rename: UI_TutorialSlide2 -> UI_TutorialSlide2
+[2022.12.14-13.41.48:523][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.48:523][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-13.41.49:064][296]LogContentBrowser: Deferred new asset file creation: UI_TutorialSlide3
+[2022.12.14-13.41.49:076][296]LogContentBrowser: Creating deferred item: UI_TutorialSlide3
+[2022.12.14-13.41.49:089][297]LogContentBrowser: Renaming the item being created (Deferred Item: UI_TutorialSlide3).
+[2022.12.14-13.41.51:200][424]LogContentBrowser: Attempting asset rename: UI_TutorialSlide3 -> UI_TutorialSlide3
+[2022.12.14-13.41.51:241][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.12.14-13.41.51:250][424]LogContentBrowser: End creating deferred item UI_TutorialSlide3
+[2022.12.14-13.41.53:900][577]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-13.41.53:900][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.41.53:907][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-13.41.54:127][577]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-13.41.54:127][577]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-13.42.01:355][963]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.14-13.42.31:336][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.12.14-13.42.31:337][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2022.12.14-13.42.31:337][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_TutorialSlide2] ([2] browsable assets)...
+[2022.12.14-13.42.31:345][722]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2]
+[2022.12.14-13.42.31:345][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_TutorialSlide2]
+[2022.12.14-13.42.31:348][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_TutorialSlide2_Auto3
+[2022.12.14-13.42.31:348][722]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide2_Auto3677CC2454501EE02C52A94984CB3E14D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_TutorialSlide2_Auto3.uasset'
+[2022.12.14-13.42.31:349][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_TutorialSlide3] ([2] browsable assets)...
+[2022.12.14-13.42.31:356][722]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3]
+[2022.12.14-13.42.31:356][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_TutorialSlide3]
+[2022.12.14-13.42.31:359][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_TutorialSlide3_Auto3
+[2022.12.14-13.42.31:359][722]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3_Auto3D06593D045362F9FE07ED8A72D055FF1.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_TutorialSlide3_Auto3.uasset'
+[2022.12.14-13.42.31:360][722]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.12.14-13.43.51:678][541]LogDerivedDataCache: C:/Users/cjbut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.181 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.14-13.45.19:064][770]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-13.45.25:401][133]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-13.45.30:973][449]LogEditorTransaction: Undo Edit Size To Content
+[2022.12.14-13.45.32:842][548]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 157548
+[2022.12.14-13.45.32:843][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.45.32:857][549]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.14-13.45.32:858][549]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.14-13.45.32:860][549]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.14-13.45.32:861][549]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-13.45.32:863][549]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.14-13.49.00:442][384]LogEditorTransaction: Undo Edit Right
+[2022.12.14-13.51.13:194][236]LogEditorTransaction: Undo Edit Left
+[2022.12.14-13.52.49:880][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.14-13.52.49:882][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2022.12.14-13.52.49:882][978]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_TutorialSlide2] ([2] browsable assets)...
+[2022.12.14-13.52.49:890][978]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2]
+[2022.12.14-13.52.49:890][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_TutorialSlide2]
+[2022.12.14-13.52.49:893][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_TutorialSlide2_Auto4
+[2022.12.14-13.52.49:893][978]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide2_Auto48B165B49447452383507C6A50EFD50AF.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_TutorialSlide2_Auto4.uasset'
+[2022.12.14-13.52.49:893][978]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.12.14-13.53.53:583][792]LogEditorTransaction: Undo Edit Left
+[2022.12.14-13.54.02:195][293]LogEditorTransaction: Undo Edit Left
+[2022.12.14-13.54.46:727][895]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.14-13.56.36:777][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-13.56.36:781][373]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-13.56.36:781][373]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide211AF3C954A661A50CD6401A3548ABF6E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-13.56.36:795][373]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-13.56.36:795][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-13.56.37:518][417]BlueprintLog: New page: Compile UI_TutorialSlide2
+[2022.12.14-13.56.37:578][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.14-13.57.27:362][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-13.57.27:365][378]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-13.57.27:365][378]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide2167009B743A1D37BFFC2968273F047A2.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-13.57.27:376][378]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-13.57.27:376][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-13.57.58:463][213]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-13.58.29:754][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-13.58.29:758][ 62]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-13.58.29:758][ 62]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide2BAADE9A14CF192AED1652E93F1D7C49B.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-13.58.29:774][ 62]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-13.58.29:774][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-13.58.30:880][129]BlueprintLog: New page: Compile UI_TutorialSlide2
+[2022.12.14-13.58.30:936][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.12.14-13.59.50:588][636]BlueprintLog: New page: Compile UI_TutorialSlide2
+[2022.12.14-13.59.50:643][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.14-14.00.02:177][300]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.14-14.00.12:448][858]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.14-14.01.47:263][524]BlueprintLog: New page: Compile UI_TutorialSlide2
+[2022.12.14-14.01.47:325][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.14-14.01.53:962][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide2" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset" SILENT=true
+[2022.12.14-14.01.53:966][914]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide2
+[2022.12.14-14.01.53:966][914]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide25E09BFA6450A00EA15E44896965E7FD9.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide2.uasset'
+[2022.12.14-14.01.53:978][914]AssetCheck: New page: Asset Save: UI_TutorialSlide2
+[2022.12.14-14.01.53:978][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide2.UI_TutorialSlide2
+[2022.12.14-14.02.34:738][337]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.14-14.02.48:687][150]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.02.48:687][150]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.02.49:227][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.14-14.02.50:803][179]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.14-14.02.50:861][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.14-14.02.52:718][277]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.02.52:718][277]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.02.53:356][314]LogContentBrowser: Deferred new asset file creation: UI_TutorialSlide3
+[2022.12.14-14.02.53:381][314]LogContentBrowser: Creating deferred item: UI_TutorialSlide3
+[2022.12.14-14.02.53:396][315]LogContentBrowser: Renaming the item being created (Deferred Item: UI_TutorialSlide3).
+[2022.12.14-14.02.56:003][472]LogContentBrowser: Attempting asset rename: UI_TutorialSlide3 -> UI_TutorialSlide3
+[2022.12.14-14.02.56:043][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.12.14-14.02.56:051][472]LogContentBrowser: End creating deferred item UI_TutorialSlide3
+[2022.12.14-14.02.58:824][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.02.58:827][630]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.02.58:827][630]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3B209D94A4D952984D2916CB8D9677401.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.02.58:840][630]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.02.58:840][630]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.03.03:006][875]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.03.03:007][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.03.03:014][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.03.03:231][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.03.03:231][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.04.37:582][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.04.37:586][905]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.04.37:586][905]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3A58B53774E59CC936828E2BCA46D7CD5.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.04.37:599][905]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.04.37:599][905]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.06.02:296][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.06.02:300][961]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.06.02:300][961]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3B7483A9D4E7FCA090AEBD3A2ED987D65.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.06.02:314][961]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.06.02:314][961]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.06.02:870][995]BlueprintLog: New page: Compile UI_TutorialSlide3
+[2022.12.14-14.06.02:947][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.14-14.06.20:259][ 15]LogEditorTransaction: Undo Edit Image
+[2022.12.14-14.07.35:090][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.07.35:094][145]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.07.35:094][145]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide35235E0C54E9B7A554AFF86ADEA30862E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.07.35:107][145]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.07.35:107][145]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.08.16:689][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.14-14.08.16:691][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2022.12.14-14.08.16:691][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_TutorialSlide3] ([2] browsable assets)...
+[2022.12.14-14.08.16:696][614]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3]
+[2022.12.14-14.08.16:696][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_TutorialSlide3]
+[2022.12.14-14.08.16:700][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_TutorialSlide3_Auto5
+[2022.12.14-14.08.16:700][614]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3_Auto54E9448894FAE7B743E136FAE6E89542D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/Autosaves/Game/UI/UI_TutorialSlide3_Auto5.uasset'
+[2022.12.14-14.08.16:700][614]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.12.14-14.08.55:576][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.08.55:580][934]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.08.55:580][934]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3E22210F744DAF7C72ECA10A45EABBCDE.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.08.55:590][934]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.08.55:591][934]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.08.57:447][ 46]BlueprintLog: New page: Compile UI_TutorialSlide3
+[2022.12.14-14.08.57:504][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.12.14-14.09.08:800][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide3" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset" SILENT=true
+[2022.12.14-14.09.08:804][712]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide3
+[2022.12.14-14.09.08:804][712]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide3787371F942B2AC698EB0188D96B5829F.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide3.uasset'
+[2022.12.14-14.09.08:815][712]AssetCheck: New page: Asset Save: UI_TutorialSlide3
+[2022.12.14-14.09.08:815][712]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide3.UI_TutorialSlide3
+[2022.12.14-14.09.10:999][843]BlueprintLog: New page: Compile UI_TutorialSlide3
+[2022.12.14-14.09.11:057][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.14-14.09.11:538][867]BlueprintLog: New page: Compile UI_TutorialSlide3
+[2022.12.14-14.09.11:596][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.12.14-14.09.47:668][  7]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.09.47:668][  7]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.14-14.09.48:275][ 41]LogContentBrowser: Deferred new asset file creation: UI_TutorialSlide4
+[2022.12.14-14.09.48:289][ 41]LogContentBrowser: Creating deferred item: UI_TutorialSlide4
+[2022.12.14-14.09.48:305][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: UI_TutorialSlide4).
+[2022.12.14-14.09.50:911][199]LogContentBrowser: Attempting asset rename: UI_TutorialSlide4 -> UI_TutorialSlide4
+[2022.12.14-14.09.50:956][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.14-14.09.50:964][199]LogContentBrowser: End creating deferred item UI_TutorialSlide4
+[2022.12.14-14.09.53:022][317]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide4.UI_TutorialSlide4
+[2022.12.14-14.09.53:022][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.09.53:029][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.09.53:239][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.09.53:239][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.11.06:284][683]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-14.11.06:803][699]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-14.11.07:818][758]LogEditorTransaction: Undo Edit Size To Content
+[2022.12.14-14.15.49:171][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide4" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide4.uasset" SILENT=true
+[2022.12.14-14.15.49:174][859]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide4
+[2022.12.14-14.15.49:174][859]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide4FC111ED345E1E79CE3F7CA95C69664A8.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide4.uasset'
+[2022.12.14-14.15.49:202][859]AssetCheck: New page: Asset Save: UI_TutorialSlide4
+[2022.12.14-14.15.49:202][859]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide4.UI_TutorialSlide4
+[2022.12.14-14.15.49:837][897]BlueprintLog: New page: Compile UI_TutorialSlide4
+[2022.12.14-14.15.49:911][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.14-14.16.38:602][796]LogContentBrowser: Deferred new asset file creation: UI_TutorialSlide5
+[2022.12.14-14.16.38:611][796]LogContentBrowser: Creating deferred item: UI_TutorialSlide5
+[2022.12.14-14.16.38:627][797]LogContentBrowser: Renaming the item being created (Deferred Item: UI_TutorialSlide5).
+[2022.12.14-14.16.41:886][992]LogContentBrowser: Attempting asset rename: UI_TutorialSlide5 -> UI_TutorialSlide5
+[2022.12.14-14.16.41:936][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.12.14-14.16.41:944][992]LogContentBrowser: End creating deferred item UI_TutorialSlide5
+[2022.12.14-14.16.45:177][183]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.16.45:177][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.16.45:186][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.14-14.16.45:397][183]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.16.45:397][183]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.14-14.17.16:783][ 37]LogEditorTransaction: Undo Remove Widget
+[2022.12.14-14.18.36:362][782]LogEditorTransaction: Undo Edit X
+[2022.12.14-14.18.36:871][797]LogEditorTransaction: Undo Edit Top
+[2022.12.14-14.19.49:250][129]LogEditorTransaction: Undo Resize Widget
+[2022.12.14-14.19.50:310][177]LogEditorTransaction: Undo Edit Text
+[2022.12.14-14.19.50:883][209]LogEditorTransaction: Undo Edit Text
+[2022.12.14-14.19.55:451][480]LogEditorTransaction: Undo Edit Text
+[2022.12.14-14.19.56:238][511]LogEditorTransaction: Undo Edit Text
+[2022.12.14-14.20.15:046][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-14.20.15:050][629]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-14.20.15:050][629]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5F82160704467A0F28F1B3D8CF13445ED.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-14.20.15:073][629]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-14.20.15:073][629]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.20.45:362][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-14.20.45:365][433]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-14.20.45:366][433]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide58D386C4649A108A9AE99C6BFAD02BE9D.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-14.20.45:379][433]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-14.20.45:379][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.20.46:508][501]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-14.20.46:578][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.14-14.21.01:633][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-14.21.01:636][385]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-14.21.01:636][385]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide56392137B4EEB796B27D3CD8C4D2BAE79.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-14.21.01:647][385]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-14.21.01:648][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.21.02:164][416]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-14.21.02:231][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.14-14.21.19:955][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-14.21.19:958][465]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-14.21.19:958][465]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide59A2FB9574E472B65C33DDFBEE5742E32.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-14.21.19:970][465]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-14.21.19:970][465]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.21.20:576][501]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-14.21.20:645][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.12.14-14.21.37:903][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.14-14.21.37:906][518]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.14-14.21.37:906][518]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide547EA19D547E1D7E90354E1A3BA77466E.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.14-14.21.37:918][518]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.14-14.21.37:918][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.14-14.21.38:492][553]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.14-14.21.38:558][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
