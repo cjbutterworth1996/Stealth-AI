@@ -25,9 +25,9 @@ Heuristic: The design should always keep users informed about what is going on, 
 
 Analysis: There is no UI whatsoever, which is quite an issue for determining system status. The only indication the user has to when a guard has spotted them is that the guard faces their direction and starts moving towards them. Possible solutions to this include a symbol above the AI's heads to determine what state they're in, audio cues to alert the player that they've been seen, and UI cues such as the screen turning red to alert the player that they've been seen. Also, there is no win/loss state or objective to follow, so the player will be confused about what to do. To fix this, an objective should be added, UI should be added to show the player what the object is, such as a minimap or an arrow pointing to the objective, or even just a message telling the player what to do. A win state to finish the level and a loss state to restart the level also need to be implemented in order to let the player know they have either succeeded or failed in completing the main objective.
 
-Playtester's experience: 
+Playtester's experience: The alert system feels very much like an Assassin's Creed game and adequately informs the user about the system status at all times.
 
-Solution: 
+Solution: There is now an icon system attached to the enemy characters that shows whether they have seen the player or not. A hidden icon is shown above their heads while they have not seen the player, and an alert icon is show above their heads when they have seen the player. Once they give up searching for a player, the alert icon switches back to the hidden icon. On top of that, when an enemy sees a player, they let out a shout, letting the player know they've been seen even if they aren't looking at the enemy who has seen them. Win/loss states have been implemented as well. The player must reach the exit door to win, and if an enemy touches a player, they lose. The objective, mechanics, and controls have all been outlined in a tutorial sequence before the game starts. The door also has a green arrow above it to let the player know where it is.
 
 Alert symbol: <a href="https://www.flaticon.com/free-icons/alert" title="alert icons">Alert icons created by Freepik - Flaticon</a>
 
@@ -42,9 +42,9 @@ Heuristic: The design should speak the users' language. Use words, phrases, and 
 
 Analysis: No words, phrases, or concepts should feel alien to anyone who is familiar with stealth games. When the tutorial slides are added, they will include easily recognizable terms like alert, searching, key, door, objective, crouch, etc. that anyone with a basic understanding of the English language and/or familiarity with stealth games should be able to easily understand.
 
-Playtester's experience:
+Playtester's experience: The tutorial and terms are all very easy to understand and anyone with a basic understanding of the English language should not have any difficulty understanding it.
 
-Solution:
+Solution: Tutorial slides have been added with easy to understand, familiar terms. Any important terms have been highlighted by being in all caps.
 
 # Heuristic 3 - User control and freedom #
 
@@ -52,9 +52,9 @@ Heuristic: Users often perform actions by mistake. They need a clearly marked "e
 
 Analysis: There is currently no way to exit the game or reset the level. A pause function and option to reset the level or exit the level/game needs to be added to allow the user freedom to easily try again or quit the game.
 
-Playtester's experience:
+Playtester's experience: The only way to reset the level is to lose to an enemy. This isn't really an issue, just thought I'd bring it up. The pause menu should be adjusted to return to the main menu and not exit the game though.
 
-Solution:
+Solution: A pause function has been added with options to resume or exit the game. After the playtester's feedback, I adjusted it to have an option to return to the main menu instead of exiting the game. On the loss screen, the player has an option to reset the level without going to the main menu as well as the option to return to the main menu. On the win screen, the player has the option to exit the game or to return to the main menu.
 
 # Heuristic 4 - Consistency and standards #
 
@@ -62,9 +62,9 @@ Heuristic: Users should not have to wonder whether different words, situations, 
 
 Analysis: There should be no confusion about terminology in the game. The words that will be used in the tutorial slides will be easily recognizable and mean the same thing that they generally mean in real life and in other video games.
 
-Playtester's experience:
+Playtester's experience: Same thing as with the second heuristic, everything is easily understandable to basic-level English speakers.
 
-Solution:
+Solution: All tutorial slides have easily understandable terms and key terms are highlighted with all caps.
 
 # Heuristic 5 - Error prevention #
 
