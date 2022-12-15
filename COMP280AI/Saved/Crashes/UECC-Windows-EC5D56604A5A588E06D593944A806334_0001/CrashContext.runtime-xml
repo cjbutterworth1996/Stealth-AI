@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.0.3-20979098+++UE5+Release-5.0</EngineVersion>
-		<CommandLine>C:\School\Fork\cb264195-comp280-a1\COMP280AI\COMP280AI.uproject</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>en-GB</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.0-CL-20979098</BuildVersion>
