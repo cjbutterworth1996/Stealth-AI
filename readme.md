@@ -73,7 +73,10 @@ Playtester's experience: The only way to reset the level is to lose to an enemy.
 
 Solution: A pause function has been added with options to resume or exit the game. After the playtester's feedback, I adjusted it to have an option to return to the main menu instead of exiting the game. On the loss screen, the player has an option to reset the level without going to the main menu as well as the option to return to the main menu. On the win screen, the player has the option to exit the game or to return to the main menu.
 
-[INSERT UPDATED PAUSE MENU PICTURE HERE]
+![tutorial-slide-pause](https://media.github.falmouth.ac.uk/user/748/files/3f9674c4-cb01-414b-8be2-c9bcbf01681e)
+<p><p align = "center">
+  Fig.4 - Pause Menu
+  </p>
 
 # Heuristic 4 - Consistency and standards #
 
@@ -111,9 +114,14 @@ Heuristic: Shortcuts — hidden from novice users — may speed up the interacti
 
 Analysis: Right now, there is no customizability withing the game. While the game is a short tech demo with hardly any variability, there is still room for improvement in this aspect. A difficulty mode could be added that adds more guards/obstacles to sneak past, options could be added to skip the tutorial, and options could also be added to hide the UI.
 
-Playtester's experience:
+Playtester's experience: There is a rather impressive option to choose difficulty which modifies the number of enemies. Hard mode deletes the user interface entirely. You are also given the option to skip the tutorial. No issues with this heuristic.
 
-Solution:
+Solution: The player now has the ability to skip the tutorial if they don't wish to view it, and they have 3 difficulty levels to choose from. See Fig. 5 for details.
+
+![Difficulty Selection](https://media.github.falmouth.ac.uk/user/748/files/5b3d08db-7d00-469a-b227-3a6acd8e4884)
+<p><p align = "center">
+  Fig.5 - Difficulty Selection
+  </p>
 
 # Heurisitic 8 - Aesthetic and minimalist design #
 
@@ -121,9 +129,9 @@ Heuristic: Interfaces should not contain information that is irrelevant or rarel
 
 Analysis: There is no UI whatsoever, so technically, this heuristic is being met to a very satisfying degree. This heuristic will need to be re-analyzed via playtesting once the UI is implemented.
 
-Playtester's experience:
+Playtester's experience: The UI is as minimal as possible, and if you choose hard difficulty, there is no UI whatsoever.
 
-Solution:
+Solution: The player has the option to choose hard difficulty, which removes the UI entirely. Even playing or normal or easy difficulties though, there is very minimal UI.
 
 # Heuristic 9 - Help users recognize, diagnose, and recover from errors #
 
@@ -131,9 +139,19 @@ Heuristic: Error messages should be expressed in plain language (no error codes)
 
 Analysis: There are no errors that require messages in the game currently. Once an objective is added, a message should pop up if the player tries to complete the objective in an incorrect manner.
 
-Playtester's analysis:
+Playtester's analysis: There are no error messages, but seeing as how there is no way for the player to actually do something wrong, this is not an issue. The win/loss screens are very easily recognizable and tell the player what happened.
 
-Solution:
+Solution: There are no errors that the player can make. If they get caught by an enemy, they are show a loss screen, telling them they lost. If they reach the objective door, they are shown a win screen, telling them they won.
+
+![loss screen](https://media.github.falmouth.ac.uk/user/748/files/318dfc67-cc5f-4096-8696-f5dfb24b0450)
+<p><p align = "center">
+  Fig.6 - Loss Screen
+  </p>
+
+![Win Screen](https://media.github.falmouth.ac.uk/user/748/files/b648607f-282b-4215-a1ac-09814c231c06)
+<p><p align = "center">
+  Fig.7 - Win Screen
+  </p>
 
 # Heuristic 10 - Help and documentation #
 
@@ -141,6 +159,6 @@ Heuristic: It’s best if the system doesn’t need any additional explanation. 
 
 Analysis: There are no tasks for the user to complete, so there is no need for additional explanation other than to perhaps let the user know that there is nothing they actually have to do. Once an objective is placed in the game, a series of tutorial slides will optionally pop up informing the user the game's controls, objectives, and win/loss states. Also, if a difficulty system is added, the user should be informed why a certain difficulty setting is harder/easier than the others.
 
-Playtester's experience:
+Playtester's experience: The difficulty selection clearly states what changes with each difficulty and there is a large, bright green arrow pointing to the exit door. I had no issue understanding any of the UI.
 
-Solution:
+Solution: The objective door is clearly marked with a big, green arrow, and the difficulty selection screen details the differences between each setting.
