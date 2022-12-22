@@ -27,14 +27,31 @@ Analysis: There is no UI whatsoever, which is quite an issue for determining sys
 
 Playtester's experience: The alert system feels very much like an Assassin's Creed game and adequately informs the user about the system status at all times.
 
-Solution: There is now an icon system attached to the enemy characters that shows whether they have seen the player or not. A hidden icon is shown above their heads while they have not seen the player, and an alert icon is show above their heads when they have seen the player. Once they give up searching for a player, the alert icon switches back to the hidden icon. On top of that, when an enemy sees a player, they let out a shout, letting the player know they've been seen even if they aren't looking at the enemy who has seen them. Win/loss states have been implemented as well. The player must reach the exit door to win, and if an enemy touches a player, they lose. The objective, mechanics, and controls have all been outlined in a tutorial sequence before the game starts. The door also has a green arrow above it to let the player know where it is.
+Solution: There is now an icon system attached to the enemy characters that shows whether they have seen the player or not. 
+A hidden icon is shown above their heads while they have not seen the player. an alert icon is show above their heads when they have seen the player. 
+
+![tutorial-slide-hidden](https://media.github.falmouth.ac.uk/user/748/files/ad02832d-ce2b-4008-8f65-4ea3a454167d)
+<p><p align = "center">
+  Fig.1 - Hidden Icon
+  </p>
+
+![tutorial-slide-alert](https://media.github.falmouth.ac.uk/user/748/files/1d3c0588-8ab5-4f23-8239-2a78c08fbe28)
+<p><p align = "center">
+  Fig.2 - Alert Icon
+  </p>
+
+Once they give up searching for a player, the alert icon switches back to the hidden icon. On top of that, when an enemy sees a player, they let out a shout, letting the player know they've been seen even if they aren't looking at the enemy who has seen them. Win/loss states have been implemented as well. The player must reach the exit door to win, and if an enemy touches a player, they lose. The objective, mechanics, and controls have all been outlined in a tutorial sequence before the game starts. The door also has a green arrow above it to let the player know where it is.
+
+![tutorial-slide-objective](https://media.github.falmouth.ac.uk/user/748/files/08d90d28-c296-4638-858a-bff2c3683d4b)
+<p><p align = "center">
+  Fig.3 - Objective Door
+  </p>
 
 Alert symbol: <a href="https://www.flaticon.com/free-icons/alert" title="alert icons">Alert icons created by Freepik - Flaticon</a>
 
 Hidden symbol: <a href="https://www.flaticon.com/free-icons/user-interface" title="user interface icons">User interface icons created by Febrian Hidayat - Flaticon</a>
 
 Sound effect: <a href ="https://www.unrealengine.com/marketplace/en-US/product/human-vocalizations" title="battle cry sound effect">Battle cry sound effect created by Gamemaster Audio</a>
-
 
 # Heuristic 2 - Match between system and the real world #
 
@@ -56,6 +73,8 @@ Playtester's experience: The only way to reset the level is to lose to an enemy.
 
 Solution: A pause function has been added with options to resume or exit the game. After the playtester's feedback, I adjusted it to have an option to return to the main menu instead of exiting the game. On the loss screen, the player has an option to reset the level without going to the main menu as well as the option to return to the main menu. On the win screen, the player has the option to exit the game or to return to the main menu.
 
+[INSERT UPDATED PAUSE MENU PICTURE HERE]
+
 # Heuristic 4 - Consistency and standards #
 
 Heuristic: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
@@ -72,9 +91,9 @@ Heuristic: Good error messages are important, but the best designs carefully pre
 
 Analysis: There is no possibility for error because there is currently no objective and no feasible way to escape the game environment. Once an objective is added, the player will only be able to exit the game environment if they complete the objective or quit the game.
 
-Playtester's experience:
+Playtester's experience: I could not find any way to break the game. There is no way to leave the level or do anything else that was not intended.
 
-Solution:
+Solution: The player is stuck in a level that is impossible for them to leave without either exiting via a menu, through the objective door, or getting caught by an enemy.
 
 # Heuristic 6 - Recognition rather than recall #
 
@@ -82,9 +101,9 @@ Heuristic: Minimize the user's memory load by making elements, actions, and opti
 
 Analysis: There is currently no objective for the user to keep in mind. The user can crouch or prone, but the game does not tell them this. A possible solution is to have the options and the keybindings show in the on-screen UI to remind them they can do these things. Also, when an objective is added, some part of the UI should be easily visible that reminds them what they are supposed to be doing. Additionally, as with the movement controls, a UI element should let the player know they have the option to pause the game and open the pause menu.
 
-Playtester's experience:
+Playtester's experience: There is currently no HUD UI overlayed on the player's screen, but a tutorial at the beginning of the game showcased all of the inputs available to the player. This is not an issue as the controls are very simple and easy to remember.
 
-Solution:
+Solution: A tutorial slideshow detailing player inputs was added. No UI was overlayed onto the screen as I felt it would be too cluttered and unnecessary.
 
 # Heuristic 7 - Flexibility and efficiency of use #
 
