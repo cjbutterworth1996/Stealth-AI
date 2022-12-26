@@ -1,6 +1,6 @@
 ### Collin Butterworth's COMP280-A1 Project ###
 
-## Documentation for Worksheet 1 ##
+# Documentation for Worksheet 1 #
 My AI has 5 states in its behaviour tree with sub-states in each of them. The AI is modeled after a typical stealth game AI, and I had a lot of help developing it using this tutorial series on YouTube by Ryan Laley: https://youtube.com/playlist?list=PL4G2bSPE_8un8IplTvVrqPRt7Ey8-3obR
 
 The first and default state that they are in is a patrol state. There are Patrol Point objects placed throughout the environment and stored in an array for the AI to move through. At each patrol point, they rotate to face the attached arrow component, and can be told to wait for a specific amount of time. Additionally, there is a variable wait time setting to randomly adjust the amount of time they wait at said Patrol Point. When they have reached the end of their patrol route, I have added 3 possible behaviours to be used: stay, go back, and loop. If they are told to stay, they will stay at their last Patrol Point. If they are told to go back, they will turn around and go back through their patrol route in reverse order. If they are told to loop, they will move to the first Patrol Point and restart the patrol route.
@@ -15,11 +15,11 @@ The fifth state is the giving up state. They will exit the suspicious state and 
 
 On top of the behaviour tree for the AI, I have given them walking animations. Likewise, the player also has walking animations. As the player, you can crouch by pressing shift or prone by holding shift. I couldn't find any free assets for the prone animation, but there are crouching animations.
 
-## Documentation for Worksheet 2 ##
+# Documentation for Worksheet 2 #
 
 All of these issues were found by the developer playtesting the game with heuristics in mind. After implementing solutions and improvements to the game, I had another person playtest the game and asked them questions about it while they were playing it. I then adjusted the game once again to fix/improve upon any of the issues they mentioned. These heuristics were taken from Jakob Nielsen's 10 general principles for interaction design. They can be found here: https://www.nngroup.com/articles/ten-usability-heuristics/
 
-# Heuristic 1 - Visibility of system status #
+## Heuristic 1 - Visibility of system status ##
 
 Heuristic: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
 
@@ -53,7 +53,7 @@ Hidden symbol: <a href="https://www.flaticon.com/free-icons/user-interface" titl
 
 Sound effect: <a href ="https://www.unrealengine.com/marketplace/en-US/product/human-vocalizations" title="battle cry sound effect">Battle cry sound effect created by Gamemaster Audio</a>
 
-# Heuristic 2 - Match between system and the real world #
+## Heuristic 2 - Match between system and the real world ##
 
 Heuristic: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order
 
@@ -63,7 +63,7 @@ Playtester's experience: The tutorial and terms are all very easy to understand 
 
 Solution: Tutorial slides have been added with easy to understand, familiar terms. Any important terms have been highlighted by being in all caps.
 
-# Heuristic 3 - User control and freedom #
+## Heuristic 3 - User control and freedom ##
 
 Heuristic: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.
 
@@ -78,7 +78,7 @@ Solution: A pause function has been added with options to resume or exit the gam
   Fig.4 - Pause Menu
   </p>
 
-# Heuristic 4 - Consistency and standards #
+## Heuristic 4 - Consistency and standards ##
 
 Heuristic: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
 
@@ -88,7 +88,7 @@ Playtester's experience: Same thing as with the second heuristic, everything is 
 
 Solution: All tutorial slides have easily understandable terms and key terms are highlighted with all caps.
 
-# Heuristic 5 - Error prevention #
+## Heuristic 5 - Error prevention ##
 
 Heuristic: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
@@ -98,7 +98,7 @@ Playtester's experience: I could not find any way to break the game. There is no
 
 Solution: The player is stuck in a level that is impossible for them to leave without either exiting via a menu, through the objective door, or getting caught by an enemy.
 
-# Heuristic 6 - Recognition rather than recall #
+## Heuristic 6 - Recognition rather than recall ##
 
 Heuristic: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.
 
@@ -108,7 +108,7 @@ Playtester's experience: There is currently no HUD UI overlayed on the player's 
 
 Solution: A tutorial slideshow detailing player inputs was added. No UI was overlayed onto the screen as I felt it would be too cluttered and unnecessary.
 
-# Heuristic 7 - Flexibility and efficiency of use #
+## Heuristic 7 - Flexibility and efficiency of use ##
 
 Heuristic: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
@@ -123,7 +123,7 @@ Solution: The player now has the ability to skip the tutorial if they don't wish
   Fig.5 - Difficulty Selection
   </p>
 
-# Heurisitic 8 - Aesthetic and minimalist design #
+## Heurisitic 8 - Aesthetic and minimalist design ##
 
 Heuristic: Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
 
@@ -133,7 +133,7 @@ Playtester's experience: The UI is as minimal as possible, and if you choose har
 
 Solution: The player has the option to choose hard difficulty, which removes the UI entirely. Even playing or normal or easy difficulties though, there is very minimal UI.
 
-# Heuristic 9 - Help users recognize, diagnose, and recover from errors #
+## Heuristic 9 - Help users recognize, diagnose, and recover from errors ##
 
 Heuristic: Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
@@ -153,7 +153,7 @@ Solution: There are no errors that the player can make. If they get caught by an
   Fig.7 - Win Screen
   </p>
 
-# Heuristic 10 - Help and documentation #
+## Heuristic 10 - Help and documentation ##
 
 Heuristic: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
 
@@ -163,7 +163,7 @@ Playtester's experience: The difficulty selection clearly states what changes wi
 
 Solution: The objective door is clearly marked with a big, green arrow, and the difficulty selection screen details the differences between each setting.
 
-## Documentation for Worksheet 3 ##
+# Documentation for Worksheet 3 #
 
 To start with the optimization process, I started by running the game through its paces using the "stat unit" command in the developer console. As you can see in these figures, everything was going very smoothly in both in the menu and in the game.
 
