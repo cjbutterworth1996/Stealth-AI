@@ -162,3 +162,40 @@ Analysis: There are no tasks for the user to complete, so there is no need for a
 Playtester's experience: The difficulty selection clearly states what changes with each difficulty and there is a large, bright green arrow pointing to the exit door. I had no issue understanding any of the UI.
 
 Solution: The objective door is clearly marked with a big, green arrow, and the difficulty selection screen details the differences between each setting.
+
+## Documentation for Worksheet 3 ##
+
+To start with the optimization process, I started by running the game through its paces using the "stat unit" command in the developer console. As you can see in these figures, everything was going very smoothly in both in the menu and in the game.
+
+![Main Menu Normal](https://media.github.falmouth.ac.uk/user/748/files/af3d3d76-4ac2-4905-b37d-a2db632fcf85)
+<p><p align = "center">
+  Fig.8 - Main menu while running stat unit
+  </p>
+  
+![In Game Normal](https://media.github.falmouth.ac.uk/user/748/files/ea38e9fe-9677-47a5-aa0a-0d09504188f8)
+<p><p align = "center">
+  Fig.9 - In game while running stat unit
+  </p>
+  
+On closer inspection though, I found I was hitting a massive frame spike whenever I reloaded into the main menu.
+
+![Main Menu Spike](https://media.github.falmouth.ac.uk/user/748/files/8e4e98ba-da08-4bed-8712-cd3f4f176849)
+<p><p align = "center">
+  Fig.10 - Reloading main menu via win/loss/pause screen
+  </p>
+  
+ Just to make sure it wasn't a graphical issue, I profiled the GPU using ProfileGPU. Here are the results of that:
+ 
+ ![GPU Profile](https://media.github.falmouth.ac.uk/user/748/files/5b46c0c3-2bb4-4c16-8a7a-6339db653c78)
+ <p><p align = "center">
+  Fig.11 - Results of ProfileGPU
+  </p>
+  
+As seen in Fig.11, nothing seems to be much of an issue with the graphics. Loading the scene takes just under 10ms, but all of that appears to be from a collection of lighting processes that have nothing to do with the main menu frame spike. After confirming that the graphics processing wasn't at fault for the spike, I profiled the CPU using a trace via Unreal Insights. Here are the results of that:
+
+![CPU Profile](https://media.github.falmouth.ac.uk/user/748/files/494b6b1f-47ef-4f8b-9f07-a1ed98d8ac3a)
+<p><p align = "center">
+  Fig.12 - Results of trace using Unreal Insights
+  </p>
+
+As can be clearly seen in the CPU profile, every time the player reopens the main menu, it reloads the entire level, causing the main game thread (CPU) and the GPU to pause and spike the framerate.
