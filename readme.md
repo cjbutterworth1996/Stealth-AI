@@ -199,3 +199,35 @@ As seen in Fig.11, nothing seems to be much of an issue with the graphics. Loadi
   </p>
 
 As can be clearly seen in the CPU profile, every time the player reopens the main menu, it reloads the entire level, causing the main game thread (CPU) and the GPU to pause and spike the framerate.
+
+Instead of reloading the entire level and all of its assets, I added a function that resets the player's location, destroys all enemy guards, respawns them, repopulates their variables with a static set of variables that is set during the first initialization of the game, and then starts the game again. All enemy guards are destroyed and then respawned in order to quickly reset the behavior tree.
+
+![Final Function 1](https://media.github.falmouth.ac.uk/user/748/files/6f892de0-ff39-4f7c-8fac-f4413c1bf3a3)
+<p><p align = "center">
+  Fig. 13 - "Reset Level" function, resetting the player's location.
+  </p>
+  
+![Final Function 2](https://media.github.falmouth.ac.uk/user/748/files/f1a37869-e7cc-4d5a-ac94-1999dade8787)
+<p><p align = "center">
+  Fig. 14 - "Reset Level" function, destroying all enemy guard actors.
+  </p>
+  
+![Final Function 3](https://media.github.falmouth.ac.uk/user/748/files/ba10ae30-2aeb-4e16-881c-fd2dbb37d6ad)
+<p><p align = "center">
+  Fig. 15 - "Reset Level" function, respawning all enemy guard actors.
+  </p>
+  
+![Final Function 4](https://media.github.falmouth.ac.uk/user/748/files/cc6bdfa8-af16-4f9a-a497-2a3290f5c271)
+<p><p align = "center">
+  Fig. 16 - "Reset Level" function, repopulating enemy guard actor variables.
+  </p>
+  
+![Final Function 5](https://media.github.falmouth.ac.uk/user/748/files/042d78ae-b292-418d-b8a9-9b7c7bfac105)
+<p><p align = "center">
+  Fig. 17 - "Reset Level" function, calling two initialization functions. The first is shown in Fig. 18, the second starts the logic for enemy guard icon UI.
+  </p>
+  
+![Final Function 6](https://media.github.falmouth.ac.uk/user/748/files/18970b92-9e93-4ffb-8ec0-10f154a81650)
+<p><p align = "center">
+  Fig. 18 - "On Difficulty Select" function, disables enemy guards based on selected difficulty
+  </p>
