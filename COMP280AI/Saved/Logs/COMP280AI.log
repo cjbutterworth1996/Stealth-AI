@@ -2709,3 +2709,57 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.31-21.20.18:304][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.31-21.20.18:309][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2022.12.31-21.20.18:360][194]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.31-21.21.37:721][915]LogTurnkeySupport: Display: Adding device menu item for COLLIN_JR
+[2022.12.31-21.21.37:722][915]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/School/Fork/cb264195-comp280-a1/COMP280AI/COMP280AI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/School/Fork/cb264195-comp280-a1/COMP280AI/Intermediate/TurnkeyReport_1.log" -log="C:/School/Fork/cb264195-comp280-a1/COMP280AI/Intermediate/TurnkeyLog_1.log" -project="C:/School/Fork/cb264195-comp280-a1/COMP280AI/COMP280AI.uproject"  -Device=Win64@COLLIN_JR'
+[2022.12.31-21.21.37:722][915]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/School/Fork/cb264195-comp280-a1/COMP280AI/COMP280AI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/School/Fork/cb264195-comp280-a1/COMP280AI/Intermediate/TurnkeyReport_1.log" -log="C:/School/Fork/cb264195-comp280-a1/COMP280AI/Intermediate/TurnkeyLog_1.log" -project="C:/School/Fork/cb264195-comp280-a1/COMP280AI/COMP280AI.uproject"  -Device=Win64@COLLIN_JR" -nocompile ]
+[2022.12.31-21.21.38:584][971]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.12.31-21.21.38:601][972]LogTurnkeySupport: Turnkey Device: Win64@COLLIN_JR: (Name=COLLIN_JR, Status=Valid, Installed=10.0.22621.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.12.31-21.21.39:457][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.31-21.21.41:142][ 30]LogSlate: Window 'Save Content' being destroyed
+[2022.12.31-21.21.41:274][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI
+[2022.12.31-21.21.41:275][ 30]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/GWO3N34U483MHYI00ESVKID6BF1BBA48E2D0BA15953B87F9DC290B.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6A/GWO3N34U483MHYI00ESVKI.uasset'
+[2022.12.31-21.21.41:278][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/A4/MRNAT1R33LB8Z0NC2H157J
+[2022.12.31-21.21.41:278][ 30]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/MRNAT1R33LB8Z0NC2H157J51558D4C4C1EE325D15824BD10206E12.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/A4/MRNAT1R33LB8Z0NC2H157J.uasset'
+[2022.12.31-21.21.41:281][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G5/EUI1EZIE5RL8490843HYYX
+[2022.12.31-21.21.41:282][ 30]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/EUI1EZIE5RL8490843HYYX29A66F8949B7F554DCC9ECAE3CBFDA40.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G5/EUI1EZIE5RL8490843HYYX.uasset'
+[2022.12.31-21.21.41:284][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD
+[2022.12.31-21.21.41:285][ 30]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/3V3JB8LFL32X1UBJKNL9BDEB3287A541A90C1645EAE3A4098DBB3C.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MA/3V3JB8LFL32X1UBJKNL9BD.uasset'
+[2022.12.31-21.21.41:352][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.31-21.21.41:352][ 31]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C5499C5201_1091414207
+[2022.12.31-21.21.41:352][ 31]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1371117336
+[2022.12.31-21.21.41:352][ 31]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_7C214AF4C549035301_1761327341
+[2022.12.31-21.21.41:352][ 31]LogContentValidation: Display: Validating Enemy_Guard_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_Guard_C_UAID_8CEC4B89C858284501_1365918073
+[2022.12.31-21.22.13:043][470]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.12.31-21.22.13:111][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.12.31-21.25.33:024][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/BP_ExitDoor.BP_ExitDoor
+[2022.12.31-21.25.33:025][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.25.51:361][ 81]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.31-21.25.51:361][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.31-21.25.58:409][658]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.31-21.25.58:409][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.25.58:418][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.25.58:664][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.25.58:664][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.26.43:768][825]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_LossScreen.UI_LossScreen
+[2022.12.31-21.26.43:769][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.26.43:776][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.26.44:024][825]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.26.44:024][825]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.27.13:407][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset" SILENT=true
+[2022.12.31-21.27.13:413][145]LogSavePackage: Moving output files for package: /Game/UI/UI_WinScreen
+[2022.12.31-21.27.13:414][145]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreenB9D05A2544FAB5A144AC64AE13FAB857.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset'
+[2022.12.31-21.27.13:429][145]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.31-21.27.13:429][145]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.31-21.27.17:229][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_PlayerRespawnPoint.BP_PlayerRespawnPoint
+[2022.12.31-21.27.17:229][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.30.01:675][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_WinScreen" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset" SILENT=true
+[2022.12.31-21.30.01:682][153]LogSavePackage: Moving output files for package: /Game/UI/UI_WinScreen
+[2022.12.31-21.30.01:683][153]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_WinScreenE71C240F4CA0665928CBFD87B5414AF4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_WinScreen.uasset'
+[2022.12.31-21.30.01:700][153]AssetCheck: New page: Asset Save: UI_WinScreen
+[2022.12.31-21.30.01:700][153]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_WinScreen.UI_WinScreen
+[2022.12.31-21.30.02:440][233]BlueprintLog: New page: Compile UI_WinScreen
+[2022.12.31-21.30.02:552][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.31-21.30.04:201][367]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.12.31-21.30.04:274][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.31-21.30.58:322][741]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.12.31-21.30.58:404][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
