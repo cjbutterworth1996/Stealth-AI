@@ -2763,3 +2763,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.31-21.30.04:274][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2022.12.31-21.30.58:322][741]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2022.12.31-21.30.58:404][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.31-21.32.50:982][615]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.31-21.32.50:982][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.32.50:992][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.31-21.32.51:274][615]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.32.51:274][615]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.31-21.33.40:662][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.31-21.33.40:668][608]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.31-21.33.40:668][608]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5050E4B9A4DDEE80AD58CE6ACE024B9E4.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.31-21.33.40:684][608]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.31-21.33.40:684][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.31-21.33.52:550][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_TutorialSlide5" FILE="../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset" SILENT=true
+[2022.12.31-21.33.52:556][951]LogSavePackage: Moving output files for package: /Game/UI/UI_TutorialSlide5
+[2022.12.31-21.33.52:556][951]LogSavePackage: Moving '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Saved/UI_TutorialSlide5F8F922494ABD9C8DBC57B08713FB99E5.tmp' to '../../../../../../School/Fork/cb264195-comp280-a1/COMP280AI/Content/UI/UI_TutorialSlide5.uasset'
+[2022.12.31-21.33.52:572][951]AssetCheck: New page: Asset Save: UI_TutorialSlide5
+[2022.12.31-21.33.52:572][951]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_TutorialSlide5.UI_TutorialSlide5
+[2022.12.31-21.33.53:186][ 19]BlueprintLog: New page: Compile UI_TutorialSlide5
+[2022.12.31-21.33.53:291][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.31-21.33.54:548][116]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.12.31-21.33.54:625][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
