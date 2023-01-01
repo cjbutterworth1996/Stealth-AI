@@ -204,30 +204,41 @@ Instead of reloading the entire level and all of its assets, I added a function 
 
 ![Final Function 1](https://media.github.falmouth.ac.uk/user/748/files/6f892de0-ff39-4f7c-8fac-f4413c1bf3a3)
 <p><p align = "center">
-  Fig. 13 - "Reset Level" function, resetting the player's location.
+  Fig.13 - "Reset Level" function, resetting the player's location.
   </p>
   
 ![Final Function 2](https://media.github.falmouth.ac.uk/user/748/files/f1a37869-e7cc-4d5a-ac94-1999dade8787)
 <p><p align = "center">
-  Fig. 14 - "Reset Level" function, destroying all enemy guard actors.
+  Fig.14 - "Reset Level" function, destroying all enemy guard actors.
   </p>
   
 ![Final Function 3](https://media.github.falmouth.ac.uk/user/748/files/ba10ae30-2aeb-4e16-881c-fd2dbb37d6ad)
 <p><p align = "center">
-  Fig. 15 - "Reset Level" function, respawning all enemy guard actors.
+  Fig.15 - "Reset Level" function, respawning all enemy guard actors.
   </p>
   
 ![Final Function 4](https://media.github.falmouth.ac.uk/user/748/files/cc6bdfa8-af16-4f9a-a497-2a3290f5c271)
 <p><p align = "center">
-  Fig. 16 - "Reset Level" function, repopulating enemy guard actor variables.
+  Fig.16 - "Reset Level" function, repopulating enemy guard actor variables.
   </p>
   
 ![Final Function 5](https://media.github.falmouth.ac.uk/user/748/files/042d78ae-b292-418d-b8a9-9b7c7bfac105)
 <p><p align = "center">
-  Fig. 17 - "Reset Level" function, calling two initialization functions. The first is shown in Fig. 18, the second starts the logic for enemy guard icon UI.
+  Fig.17 - "Reset Level" function, calling two initialization functions. The first is shown in Fig. 18, the second starts the logic for enemy guard icon UI.
   </p>
   
 ![Final Function 6](https://media.github.falmouth.ac.uk/user/748/files/18970b92-9e93-4ffb-8ec0-10f154a81650)
 <p><p align = "center">
-  Fig. 18 - "On Difficulty Select" function, disables enemy guards based on selected difficulty
+  Fig.18 - "On Difficulty Select" function, disables enemy guards based on selected difficulty
   </p>
+  
+Before this solution, every time the main menu was loaded, the entire level was reloaded along with it, causing a massive performance hit while reloading all the level's assets as seen in Fig.10. After implementing this solution to move the player character and then destroy/respawn the enemy guards, everything is running very smoothly as seen in Fig.19, which was done using the same Unreal Insights trace profiling. The figure depicts the main menu being loaded 4 separate times, and as can be plainly seen, there is no drop in performance while doing this.
+
+![CPU Profile 2](https://media.github.falmouth.ac.uk/user/748/files/cff4ea55-cca9-40e8-a45a-d00b4d0064ec)
+<p><p align = "center">
+  Fig.19 - In this Unreal Insights trace, the main menu was reloaded 4 times. Notice the lack of any major spikes in performance.
+  </p>
+  
+# Documentation for Worksheet 4 #
+
+Due to the way the project is graded, I chose to really focus and hone the first 3 worksheets as much as possible. Adding networking to this demo wouldn't really make a whole lot of sense either. I plan on continuing to work on it so I can learn the networking functionalities outlined in the worksheet, but as of right now, none of that is implemented in the finished project.
